@@ -1,0 +1,3501 @@
+## Candidate accepted another offer (40)
+- Accepted another offer
+- Accepted Other Offer
+- Availability compensation or external offer constraints
+- Candidate accepted another job offer
+- Candidate accepted another offer
+- Candidate accepted another offer or is no longer available
+- Candidate accepted another offer or withdrew
+- Candidate accepted another offer or withdrew from the process
+- Candidate accepted another position
+- Candidate accepted another role
+- Candidate accepted another role or withdrew
+- Candidate chose another opportunity
+- Candidate declined or accepted another offer
+- Candidate declined, accepted another offer, or was unresponsive
+- Candidate has accepted another offer
+- Candidate has compensation expectations or another offer that cannot be met
+- Candidate is not interested or has accepted another offer
+- Candidate may leave soon or has accepted another opportunity
+- Candidate pursuing another opportunity
+- Candidate pursuing other opportunities
+- Candidate took another offer
+- Candidate was rejected for other reasons such as accepted another offer or role mismatch
+- Candidate withdrew or accepted another offer
+- Candidate withdrew or accepted another position
+- Candidate withdrew or accepted another role
+- Candidate withdrew or is pursuing another opportunity
+- Candidate withdrew or no-showed or accepted another offer
+- Candidate withdrew or took another job
+- Candidate withdrew or took another offer
+- Candidate withdrew to pursue another opportunity
+- Candidate withdrew, accepted another offer, or did not respond
+- Candidate withdrew, accepted another offer, or is unresponsive
+- Candidate withdrew, accepted another offer, or profile removed
+- Candidate withdrew, accepted another offer, or was unresponsive
+- No response, no show, withdrew or accepted another offer
+- Not motivated or has taken another job
+- Position filled or candidate accepted another offer
+- The candidate is unavailable due to other offer or visa constraints
+- The candidate withdrew, accepted another offer, or was unresponsive
+- Withdrew, accepted another offer, or did not respond
+
+## Candidate declined the offer (15)
+- Candidate declined after outreach
+- Candidate declined interview
+- Candidate declined offer and showed no interest
+- Candidate declined or accepted another offer
+- Candidate declined or missed the interview or did not respond
+- Candidate declined or timing issue
+- Candidate declined or withdrew from the process
+- Candidate declined the offer
+- Candidate declined the opportunity
+- Candidate declined the role
+- Candidate declined, accepted another offer, or was unresponsive
+- Candidate unavailable or declined the role
+- Candidate withdrew or declined
+- The candidate withdrew or declined to continue
+- Unresponsive or declined
+
+## Job position closed, on hold or already filled (16)
+- Candidate was unresponsive withdrew or the role was paused
+- Hiring is paused for the role
+- Hiring process was paused or role changed
+- Position already filled
+- Position already filled and role is closed
+- Position currently on hold
+- Position filled or candidate accepted another offer
+- Position has already been filled
+- Position has already been filled or is closed
+- Position is no longer being filled
+- Position no longer being hired
+- Process related reasons such as compensation mismatch or position filled
+- Role already filled or candidate removed from pipeline
+- Role closed due to no hiring manager response
+- The candidate withdrew or did not show up or the role was already filled
+- The position is already filled and we now only want indirect tax or e-invoicing specialists
+
+## Candidate did not respond or could not be reached (124)
+- Application deleted or no response
+- Application was incomplete or unresponsive
+- Candidate could not be contacted or did not schedule interview
+- Candidate declined or missed the interview or did not respond
+- Candidate declined, accepted another offer, or was unresponsive
+- Candidate did not attend or respond to interview scheduling
+- Candidate did not engage in the hiring process
+- Candidate did not engage or was unprepared
+- Candidate did not respond
+- Candidate did not respond no-show or withdrew
+- Candidate did not respond or failed to complete interview scheduling
+- Candidate did not respond or schedule an interview
+- Candidate did not respond or schedule interview
+- Candidate did not respond or show up for scheduled interactions
+- Candidate did not respond or was unresponsive
+- Candidate did not respond or withdrew
+- Candidate did not respond or withdrew from the process
+- Candidate did not respond to communication
+- Candidate did not respond to communications
+- Candidate did not respond to outreach
+- Candidate did not respond to outreach or interview invitations
+- Candidate did not respond to questions
+- Candidate did not respond to scheduling or follow-up
+- Candidate failed to respond or schedule required interviews
+- Candidate failed to respond to communications in a timely manner
+- Candidate failed to respond, schedule, or withdrew from the process
+- Candidate failed to schedule or respond to interview
+- Candidate failed to schedule or respond to interview requests
+- Candidate is not interested or unresponsive
+- Candidate is unresponsive duplicate or appears fraudulent
+- Candidate is unresponsive or application was withdrawn
+- Candidate is unresponsive, withdrew, or has location or relocation constraints
+- Candidate stopped communicating
+- Candidate unresponsive or application issue
+- Candidate unresponsive or no reply
+- Candidate unresponsive or no show or withdrew
+- Candidate unresponsive or withdrew
+- Candidate unresponsive, withdrew, or application removed
+- Candidate was nonresponsive
+- Candidate was not selected because other candidates were stronger or the candidate was unresponsive
+- Candidate was unresponsive
+- Candidate was unresponsive during the hiring process
+- Candidate was unresponsive or cancelled interviews
+- Candidate was unresponsive or could not be scheduled
+- Candidate was unresponsive or failed to follow up
+- Candidate was unresponsive or lost interest
+- Candidate was unresponsive or missed interview
+- Candidate was unresponsive or missed scheduled calls
+- Candidate was unresponsive or missed scheduled communications
+- Candidate was unresponsive or missed scheduled interviews
+- Candidate was unresponsive or withdrew
+- Candidate was unresponsive or withdrew from process
+- Candidate was unresponsive or withdrew from the process
+- Candidate was unresponsive or withdrew the application
+- Candidate was unresponsive to outreach or interview scheduling
+- Candidate was unresponsive withdrew or cannot meet visa relocation requirements
+- Candidate was unresponsive withdrew or the role was paused
+- Candidate was unresponsive, opted out, or already in another process
+- Candidate withdrew from the process or did not respond
+- Candidate withdrew or communication stalled
+- Candidate withdrew or did not reply to outreach
+- Candidate withdrew or did not respond
+- Candidate withdrew or stopped responding
+- Candidate withdrew or was not engaged in the process
+- Candidate withdrew or was unresponsive
+- Candidate withdrew or was unresponsive or not interested
+- Candidate withdrew, accepted another offer, or did not respond
+- Candidate withdrew, accepted another offer, or is unresponsive
+- Candidate withdrew, accepted another offer, or was unresponsive
+- Candidate withdrew, was unresponsive, or missed the interview
+- Communication difficulties or lack of response were observed
+- Did not engage or dropped out of the process
+- Did not follow up or schedule interview
+- Did not respond or missed scheduled interviews
+- Did not respond to outreach
+- No response from candidate
+- No response from candidate or recruiter
+- No response from the candidate
+- No response or candidate not interested after outreach
+- No response or engagement from candidate
+- No response or interview no-show
+- No response or interview not scheduled
+- No response or interview scheduled
+- No response or lack of interest
+- No response or low engagement
+- No response or missed interview scheduling
+- No response or not interested after outreach
+- No response or pending follow up
+- No response or unresponsive candidate
+- No response or withdrew from process
+- No response to interview requests
+- No response to interview scheduling or application withdrawn
+- No response to outreach
+- No response to outreach or communication
+- No response to recruiter outreach
+- No response to scheduled interview calls
+- No response, no show, withdrew or accepted another offer
+- Profile appears fraudulent or candidate is unresponsive
+- The candidate did not respond or was inactive
+- The candidate did not respond to outreach
+- The candidate withdrew, accepted another offer, or was unresponsive
+- Unresponsive candidate
+- Unresponsive during the recruitment process
+- Unresponsive or cannot be reached
+- Unresponsive or declined
+- Unresponsive or did not schedule interview
+- Unresponsive or failed to schedule interview
+- Unresponsive or missed interview steps
+- Unresponsive or missed scheduled interview
+- Unresponsive or no show
+- Unresponsive or no-show
+- Unresponsive or no-show during interview process
+- Unresponsive or poor communication
+- Unresponsive or questionable candidate authenticity
+- Unresponsive or scheduling problems
+- Unresponsive or suspect fake profile
+- Unresponsive or unavailable for the process
+- Unresponsive or withdrawn from process
+- Unresponsive or withdrew
+- Unresponsive or withdrew from process
+- Unresponsive or withdrew from the interview process
+- Unresponsive or withdrew from the process
+- Unresponsive to outreach
+- Withdrew, accepted another offer, or did not respond
+
+## Candidate showed no interest (44)
+- Candidate declined offer and showed no interest
+- Candidate is interested in a different role or evaluating another opportunity
+- Candidate is no longer interested
+- Candidate is not a good fit or shows low enthusiasm for the role
+- Candidate is not aligned with the mission or shows little interest
+- Candidate is not interested in the company or role
+- Candidate is not interested in the role
+- Candidate is not interested or has accepted another offer
+- Candidate is not interested or has withdrawn
+- Candidate is not interested or unresponsive
+- Candidate is not interested or withdrew
+- Candidate lacks enthusiasm
+- Candidate not interested or already placed elsewhere
+- Candidate showed low enthusiasm
+- Candidate showed low interest or poor interview impression
+- Candidate shows insufficient motivation or interest
+- Candidate shows limited interest or poor culture fit
+- Candidate shows little interest or clear motivation for an early-stage startup
+- Candidate shows low interest in the company or role
+- Candidate was not interested
+- Candidate was unresponsive or lost interest
+- Candidate withdrew or is no longer interested
+- Candidate withdrew or is not interested
+- Candidate withdrew or lost interest
+- Candidate withdrew or was unresponsive or not interested
+- Cultural fit or enthusiasm concerns
+- Lack of genuine interest in the position
+- Lack of interest in the position
+- Lack of interest in the role
+- No clear interest in the role
+- No response or candidate not interested after outreach
+- No response or lack of interest
+- No response or not interested after outreach
+- Not a culture fit or not interested
+- Not interested after outreach
+- Not interested in the hiring company
+- Not interested or timing not appropriate
+- Poor communication or low enthusiasm
+- Shows insufficient interest in the work
+- The candidate does not appear enthusiastic or a mutual fit for the role
+- The candidate is not a good cultural fit or lacks interest
+- The candidate withdrew or is no longer interested
+- Uncertain interest in the individual contributor role
+- Unprofessional behavior or lack of interest
+
+## Candidate withdrew from the hiring process (104)
+- Application withdrawn
+- Candidate accepted another offer or withdrew
+- Candidate accepted another offer or withdrew from the process
+- Candidate accepted another role or withdrew
+- Candidate declined or withdrew from the process
+- Candidate did not respond no-show or withdrew
+- Candidate did not respond or withdrew
+- Candidate did not respond or withdrew from the process
+- Candidate did not schedule interview or withdrew
+- Candidate disengaged or application withdrawn
+- Candidate dropped out of process
+- Candidate failed to respond, schedule, or withdrew from the process
+- Candidate is not actively looking for a new role
+- Candidate is not interested or has withdrawn
+- Candidate is not interested or withdrew
+- Candidate is seeking a different role than the opening
+- Candidate is unresponsive or application was withdrawn
+- Candidate is unresponsive, withdrew, or has location or relocation constraints
+- Candidate left the hiring process
+- Candidate not actively seeking a new role
+- Candidate not responsive or withdrew
+- Candidate opted out of the process
+- Candidate unresponsive or no show or withdrew
+- Candidate unresponsive or withdrew
+- Candidate unresponsive, withdrew, or application removed
+- Candidate wanted a different role
+- Candidate wants to start his own business
+- Candidate was unresponsive or withdrew
+- Candidate was unresponsive or withdrew from process
+- Candidate was unresponsive or withdrew from the process
+- Candidate was unresponsive or withdrew the application
+- Candidate was unresponsive, opted out, or already in another process
+- Candidate withdrew
+- Candidate withdrew due to perceived lack of fit
+- Candidate withdrew during interview
+- Candidate withdrew from process
+- Candidate withdrew from the hiring process
+- Candidate withdrew from the process
+- Candidate withdrew from the process or did not respond
+- Candidate withdrew from the process or the application was deleted
+- Candidate withdrew or accepted another offer
+- Candidate withdrew or accepted another position
+- Candidate withdrew or accepted another role
+- Candidate withdrew or application deleted
+- Candidate withdrew or application removed
+- Candidate withdrew or application was deleted
+- Candidate withdrew or application was removed
+- Candidate withdrew or backed out and did not complete the process
+- Candidate withdrew or communication stalled
+- Candidate withdrew or declined
+- Candidate withdrew or did not attend interview
+- Candidate withdrew or did not reply to outreach
+- Candidate withdrew or did not respond
+- Candidate withdrew or did not show up
+- Candidate withdrew or had scheduling problems
+- Candidate withdrew or is no longer interested
+- Candidate withdrew or is not interested
+- Candidate withdrew or is not willing to relocate
+- Candidate withdrew or is pursuing another opportunity
+- Candidate withdrew or lost interest
+- Candidate withdrew or no-showed or accepted another offer
+- Candidate withdrew or process misalignment
+- Candidate withdrew or stopped responding
+- Candidate withdrew or the application was deleted
+- Candidate withdrew or the application was removed
+- Candidate withdrew or took another job
+- Candidate withdrew or took another offer
+- Candidate withdrew or unavailable
+- Candidate withdrew or was never interviewed
+- Candidate withdrew or was not engaged in the process
+- Candidate withdrew or was removed
+- Candidate withdrew or was removed from the process
+- Candidate withdrew or was unresponsive
+- Candidate withdrew or was unresponsive or not interested
+- Candidate withdrew or we could not proceed with them
+- Candidate withdrew the application
+- Candidate withdrew, accepted another offer, or did not respond
+- Candidate withdrew, accepted another offer, or is unresponsive
+- Candidate withdrew, accepted another offer, or profile removed
+- Candidate withdrew, accepted another offer, or was unresponsive
+- Candidate withdrew, was unresponsive, or missed the interview
+- Could not contact the candidate or candidate withdrew
+- Did not engage or dropped out of the process
+- Insufficient interview information or candidate withdrew from process
+- No response or withdrew from process
+- No response to interview scheduling or application withdrawn
+- No response, no show, withdrew or accepted another offer
+- Not open for ParaAI
+- The candidate withdrew
+- The candidate withdrew or declined to continue
+- The candidate withdrew or did not show up or the role was already filled
+- The candidate withdrew or is no longer interested
+- The candidate withdrew or was unavailable
+- The candidate withdrew, accepted another offer, or was unresponsive
+- Timing or candidate withdrew
+- Unresponsive or withdrawn from process
+- Unresponsive or withdrew
+- Unresponsive or withdrew from process
+- Unresponsive or withdrew from the interview process
+- Unresponsive or withdrew from the process
+- Withdrew from process
+- Withdrew from the hiring process
+- Withdrew from the process
+- Withdrew, accepted another offer, or did not respond
+
+## Duplicate application or removed from the system (65)
+- Administrative removal or duplicate
+- Application deleted
+- Application deleted or data cleanup
+- Application deleted or no response
+- Application errors or duplicate submissions
+- Application invalid or removed
+- Application is a duplicate
+- Application process problems
+- Application removed
+- Application removed or deleted
+- Application removed or internal rejection due to process changes
+- Application was deleted
+- Application was deleted from the system
+- Application was deleted or archived
+- Application was deleted or candidate was previously rejected
+- Application was deleted or duplicate
+- Application was deleted or marked as duplicate
+- Application was deleted or removed
+- Application was deleted or withdrawn
+- Application was removed
+- Application was removed from the system
+- Application was removed or already screened
+- Application was removed or deleted
+- Application was removed or not submitted
+- Application was withdrawn or deleted
+- Application was withdrawn, deleted, or not rescheduled
+- Application was withdrawn, deleted, or otherwise not eligible
+- Application withdrawn or deleted
+- Application withdrawn or duplicate
+- Application withdrawn, duplicate, or deleted
+- Applied for wrong role or application removed
+- Applied through another channel or duplicate application
+- Candidate already considered or duplicate submission
+- Candidate archived during sourcing review
+- Candidate did not submit required materials or application was deleted
+- Candidate has applied multiple times or is a duplicate submission
+- Candidate is already in contact, withdrawn, or duplicated in our system
+- Candidate profile is a duplicate
+- Candidate submission was duplicate or removed
+- Candidate submitted duplicate application
+- Candidate unresponsive or application issue
+- Candidate unresponsive, withdrew, or application removed
+- Candidate withdrew from the process or the application was deleted
+- Candidate withdrew or application deleted
+- Candidate withdrew or application removed
+- Candidate withdrew or application was deleted
+- Candidate withdrew or application was removed
+- Candidate withdrew or the application was deleted
+- Candidate withdrew or the application was removed
+- Candidate withdrew or was removed
+- Candidate withdrew or was removed from the process
+- Candidate withdrew, accepted another offer, or profile removed
+- Duplicate application
+- Duplicate application or already in system
+- Duplicate application or resume already reviewed
+- Duplicate candidate already reviewed
+- Duplicate candidate profile
+- Duplicate or administrative removal of application
+- Duplicate or internal applicant
+- Duplicate or mistaken application
+- Duplicate resume already in pipeline
+- Duplicate submission
+- Process or logistical issues
+- Role already filled or candidate removed from pipeline
+- The application was removed for administrative reasons
+
+## Fake profile, fraud or dishonest information (70)
+- Appears to be a fake or unverifiable candidate
+- Application issues or questionable authenticity
+- Application issues or suspected fraud
+- Application problems or unverifiable information
+- Candidate appears fraudulent
+- Candidate appears fraudulent or cannot verify work history
+- Candidate appears fraudulent or fake
+- Candidate appears not real
+- Candidate appears not serious or questionable authenticity
+- Candidate appears to be a fake or fraudulent profile
+- Candidate appears to be fraudulent
+- Candidate appears to have a fake profile
+- Candidate appears unverified or fake
+- Candidate identified as fraudulent
+- Candidate is fraudulent
+- Candidate is unresponsive duplicate or appears fraudulent
+- Candidate misrepresented their role or provided inaccurate information
+- Candidate profile appears fake or cannot be verified
+- Candidate profile appears fraudulent or unverified
+- Candidate profile appears suspicious or contains inaccurate information
+- Candidate provided fake or unverifiable experience
+- Candidate provided inconsistent information or appears fraudulent
+- Candidate raised fraud or authenticity concerns
+- Candidate showed unprofessional behavior or no-show
+- Candidate was flagged as fraudulent
+- Candidate was identified as fraudulent
+- Candidate was unprofessional and dishonest
+- Candidate's profile appears fraudulent or unverified
+- Candidate's profile could not be verified or appears fraudulent
+- Candidate's resume contains inconsistencies or inaccurate claims
+- Candidate's resume contains inconsistencies or inaccurate information
+- Candidate's resume contains unverifiable or inaccurate claims
+- Contractor or fraudulent concerns
+- Employment history cannot be verified
+- Fraudulent candidate
+- Fraudulent or withdrawn application
+- Interview performance was not genuine
+- Misrepresented background or motives
+- Potential fraud or unverifiable profile
+- Primarily a contractor, consultant, or fake profile
+- Profile appears fake or cannot be verified
+- Profile appears fake or incomplete
+- Profile appears fake or unverifiable
+- Profile appears fraudulent
+- Profile appears fraudulent or candidate is unresponsive
+- Profile appears fraudulent or fake
+- Profile appears fraudulent or inconsistent
+- Profile appears fraudulent or lacks credibility
+- Profile appears fraudulent or unreliable
+- Profile appears to be fake
+- Profile could not be verified
+- Profile could not be verified and appears potentially fake
+- Profile flagged as fraudulent or low credibility
+- Questionable profile authenticity or application status
+- Questionnaire responses appeared AI generated
+- Resume contains inaccurate or misleading information
+- Resume contains questionable or inflated achievements
+- Resume inconsistencies or overlapping employment dates
+- Resume issues or suspected fraudulent applications
+- Resume or profile appears misleading or fake
+- Suspected fake or fraudulent candidate profile
+- The candidate appears to have a fraudulent LinkedIn profile
+- The profile appears fake and requires verification
+- The resume dates are inconsistent or cannot be reconciled
+- The resume is vague, unverifiable or appears fabricated
+- Unprofessional behavior or lack of interest
+- Unresponsive or questionable candidate authenticity
+- Unresponsive or suspect fake profile
+- Unverified candidate information
+- Work appeared copied or misrepresented and lacked originality
+
+## Candidate already in the hiring pipeline or rejected before (48)
+- Already applied through careers page
+- Already engaged in another hiring process
+- Already interviewed earlier this year
+- Already rejected or not moving forward
+- Application was deleted or candidate was previously rejected
+- Application was removed or already screened
+- Candidate already considered
+- Candidate already considered or duplicate submission
+- Candidate already engaged or previously rejected
+- Candidate already in internal hiring process
+- Candidate already in our system or previously passed
+- Candidate already in pipeline or recently applied
+- Candidate already in system from another source
+- Candidate applied directly already
+- Candidate applied internally
+- Candidate has already been contacted and informed
+- Candidate has already been interviewed
+- Candidate has already been presented to the team
+- Candidate has already been rejected in a prior process
+- Candidate has been previously interviewed and rejected
+- Candidate has previously applied to the company
+- Candidate is already being considered in another interview process
+- Candidate is already being spoken to outside the platform
+- Candidate is already in another interview pipeline or recently interviewed
+- Candidate is already in our pipeline
+- Candidate is already in the internal recruitment pipeline
+- Candidate not interested or already placed elsewhere
+- Candidate previously applied directly so cannot be submitted through a recruiter
+- Candidate was already screened out or passed for other reasons
+- Candidate was previously considered for this role
+- Candidate was previously engaged or internal policy prevents credit
+- Candidate was previously interviewed
+- Candidate was previously rejected
+- Candidate was previously rejected for this role
+- Candidate was unresponsive, opted out, or already in another process
+- Duplicate application or already in system
+- Duplicate application or resume already reviewed
+- Old or stale candidate in pipeline
+- Previously applied and rejected
+- Previously applied or interviewed and not a fit
+- Previously interviewed and failed presentation
+- Previously interviewed candidate
+- Previously submitted application
+- Prior contact with internal team
+- Resume already in the system and previously rejected
+- Resume already in the system or previously evaluated
+- Resume already submitted from another source
+- The candidate's resume is already in the system and has been passed
+
+## Hiring process problem or no feedback from the hiring side (23)
+- Agency submissions are not accepted for junior candidates
+- Awaiting feedback
+- Awaiting internal feedback or clarification
+- Candidate bypassed proper communication
+- Candidate contacted hiring team directly causing a process issue
+- Candidate has been submitted before and is ineligible
+- Candidate is moving too slowly through the hiring process
+- Candidate is no longer active in the process
+- Candidate is no longer in the process
+- Candidate was rejected by the hiring manager
+- Client constraints or fit
+- Did not follow the submission criteria
+- Feedback was not actionable
+- Hiring manager rejected after interview
+- Hiring restriction from certain companies
+- Insufficient infrastructure to support the role
+- Internal flag or prior block on candidate
+- No feedback from decision-maker
+- No suitable opening is available for the candidate now
+- Preference for internal recruiter
+- Scorecard contained inaccurate information
+- The source is not preferred
+- Unclear or invalid feedback
+
+## Other candidates chosen, or no specific reason given (67)
+- Already have similar candidates moving forward
+- Already rejected or not moving forward
+- Candidate did not stand out among other applicants
+- Candidate does not match the desired profile or is outperformed by stronger candidates
+- Candidate is being held for future consideration or is unavailable
+- Candidate not a strong fit compared to other applicants
+- Candidate not moved forward
+- Candidate not selected
+- Candidate not selected for interview
+- Candidate was not selected because other candidates were stronger or the candidate was unresponsive
+- Candidate will not be moved forward
+- Candidate will not move forward
+- Candidate's overall work experience is not exceptional
+- Does not demonstrate enough exceptionalism or intensity
+- Does not demonstrate exceptional performance
+- Feedback is vague or no clear reason given
+- Founder decided not to proceed
+- Founders decided not to proceed
+- General pass without specific reason
+- Generic not a fit or unable to provide feedback
+- Hiring manager decided not to move forward
+- Lacks exceptional qualities
+- Lacks standout signals of excellence
+- More qualified candidates were available
+- No clear evidence of exceptional ability
+- No evidence of standout performance or excellence
+- No further action required
+- No specific reason given
+- No specific reason provided
+- No specific reason provided; not moving forward
+- Not exceptional in performance
+- Not exceptional or standout
+- Not moving forward after interview
+- Not moving forward without specific reason
+- Other candidates appear more qualified
+- Other candidates are a better fit
+- Other candidates are more qualified
+- Other candidates had stronger or exact required experience
+- Other candidates have already been selected
+- Other candidates were preferred
+- Other candidates were stronger
+- Other candidates were stronger or a better fit
+- Overall does not meet the raised hiring bar
+- Overall impression not strong or not impressed
+- Rejection given without a specific reason
+- Resume does not have a strong or standout spike
+- Saved for future consideration
+- Selected another candidate
+- Selected other candidates for the role
+- Selected other candidates instead
+- Strong competition from candidates with better fit
+- Strong competition makes the candidate less competitive
+- Strong pipeline of other candidates makes this profile a weaker fit
+- Stronger candidate was selected
+- Stronger candidates are available in the pipeline
+- Stronger candidates available
+- Stronger candidates in pipeline
+- Stronger candidates in the pipeline
+- Stronger candidates selected or compensation mismatch
+- Subjective personal dislike from interviewer
+- Team decided not to move forward
+- The candidate shows no evidence of exceptional ability
+- There are stronger candidates in the pipeline
+- Unclear or generic feedback
+- Unclear or generic rejection reason
+- We have stronger candidates in the pipeline
+- We selected other candidates
+
+## Salary expectation does not match the budget (63)
+- Attitude or compensation-focused concerns
+- Availability compensation or external offer constraints
+- Candidate has compensation expectations or another offer that cannot be met
+- Candidate has logistical constraints such as visa or compensation
+- Candidate is too junior for the salary range
+- Candidate requires sponsorship or has salary expectations that do not match
+- Candidate's compensation expectations are misaligned
+- Candidate's compensation expectations do not align with experience
+- Candidate's compensation expectations exceed the budget
+- Candidate's compensation expectations exceed the role's budget
+- Candidate's compensation expectations exceed the salary band
+- Candidate's compensation expectations exceed what we can offer
+- Candidate's experience does not match scope or compensation range
+- Candidate's salary expectations are outside the role's range
+- Candidate's salary expectations exceed our budget
+- Candidate's salary expectations exceed the budget
+- Candidate's salary expectations exceed the role's budget
+- Candidate's salary expectations or location do not match
+- Compensation expectations are misaligned
+- Compensation expectations are not aligned with the role
+- Compensation expectations are outside the allowed band
+- Compensation expectations are too high
+- Compensation expectations do not align
+- Compensation expectations do not match the role
+- Compensation expectations exceed budget
+- Compensation expectations exceed level
+- Compensation expectations exceed role level
+- Compensation expectations exceed the budget
+- Compensation expectations exceed the role budget
+- Compensation expectations exceed what the role warrants
+- Compensation expectations exceed what we can offer
+- Compensation expectations may not align with the role
+- Compensation expectations misaligned
+- Compensation expectations not aligned
+- Compensation expectations or relocation requirements do not match
+- Compensation expectations or timing issues
+- Compensation expectations out of range
+- Compensation expectations too high
+- Compensation is too high
+- Compensation or availability did not align with the role
+- Compensation or cost mismatch
+- Compensation or level mismatch
+- Compensation or seniority expectations misaligned
+- Compensation or visa requirements exceed the role limits
+- Not a fit for role requirements or compensation expectations
+- Process related reasons such as compensation mismatch or position filled
+- Relocation or compensation constraints
+- Salary expectations do not match
+- Salary expectations exceed budget
+- Salary expectations exceed market
+- Salary expectations exceed our range
+- Salary expectations exceed range
+- Salary expectations exceed the budget
+- Salary expectations exceed the offer
+- Salary expectations exceed the offered range
+- Salary expectations exceed the role's budget
+- Salary expectations or location are not a fit
+- Salary or seniority exceeds the role limits
+- Seniority or salary expectations exceed the role
+- Stronger candidates selected or compensation mismatch
+- The candidate did not complete the interview process or had salary expectations that were too high
+- The candidate's seniority or compensation expectations do not match
+- Unacceptable compensation expectations or relocation constraints
+
+## Needs visa sponsorship or lacks work authorization (65)
+- Candidate cannot meet location or work-authorization requirements
+- Candidate cannot meet visa or onsite requirements
+- Candidate does not have required work authorization
+- Candidate has logistical constraints such as visa or compensation
+- Candidate has visa or location constraints
+- Candidate has visa or location issues
+- Candidate has visa or passport restrictions
+- Candidate is not a US citizen
+- Candidate is not authorized to work in the required location
+- Candidate is not authorized to work in the United States
+- Candidate is not eligible due to work-authorization or location constraints
+- Candidate lacks work authorization
+- Candidate location or visa constraints prevent hiring
+- Candidate requires sponsorship or has salary expectations that do not match
+- Candidate requires visa sponsorship
+- Candidate requires visa sponsorship or has work-authorization issues
+- Candidate requires visa sponsorship or is on OPT which we cannot support
+- Candidate requires visa sponsorship that we cannot provide
+- Candidate was unresponsive withdrew or cannot meet visa relocation requirements
+- Cannot provide sponsorship
+- Cannot provide visa sponsorship
+- Cannot sponsor a visa for the candidate
+- Cannot sponsor H1-B
+- Cannot sponsor the candidate
+- Cannot sponsor visa
+- Cannot sponsor work visa
+- Cannot transfer or sponsor internationally
+- Compensation or visa requirements exceed the role limits
+- Does not have work authorization
+- Does not meet citizenship or visa eligibility requirements
+- Geographic or visa constraints
+- Insufficient tenure and no visa sponsorship
+- Lacks work authorization
+- Missing required qualifications such as visa or education
+- Not a U.S. person or citizen
+- Requires visa sponsorship or lacks US citizenship
+- Sponsorship or timing constraints prevent hiring
+- The candidate is unavailable due to other offer or visa constraints
+- The candidate needs visa sponsorship we cannot provide
+- The candidate requires visa sponsorship which we are avoiding
+- Visa or location constraints
+- Visa or remote work incompatibility
+- Visa or work authorization constraints
+- Visa or work authorization issue
+- Visa or work authorization issues
+- Visa or work authorization not available
+- Visa or work-authorization constraints
+- Visa or work-authorization requirements
+- Visa sponsorship not available
+- Visa sponsorship not permitted
+- Visa sponsorship not possible
+- Visa sponsorship or citizenship requirements not met
+- Visa sponsorship or location constraints prevent hiring
+- Visa sponsorship or location requirements not met
+- Visa sponsorship or work-authorization issues are present
+- Visa sponsorship required but not supported
+- Visa transfer requires higher tech bar
+- Visa, location, or work-authorization issues
+- We cannot sponsor the required visa
+- Work authorization issues
+- Work authorization not available
+- Work authorization or location constraints
+- Work authorization or location constraints prevent hiring
+- Work authorization or visa issue
+- Work authorization or visa issues
+
+## Wrong location or unwilling to relocate (119)
+- Availability or location constraints
+- Candidate cannot meet location or schedule requirements
+- Candidate cannot meet location or work-authorization requirements
+- Candidate cannot meet relocation or nationality requirements
+- Candidate cannot meet required office schedule
+- Candidate cannot meet the office location or remote work requirements
+- Candidate cannot meet the required location or commute
+- Candidate cannot relocate or has location constraints
+- Candidate cannot relocate or is in the wrong location
+- Candidate cannot relocate to the required location
+- Candidate cannot work full-time onsite at required locations
+- Candidate cannot work in the required Austin location
+- Candidate does not meet geographic focus requirement
+- Candidate does not meet location requirements
+- Candidate has visa or location constraints
+- Candidate has visa or location issues
+- Candidate is located outside the East Coast
+- Candidate is not based in the required location
+- Candidate is not eligible due to work-authorization or location constraints
+- Candidate is not in the required location
+- Candidate is not located in California or the required geography
+- Candidate is not located in New York
+- Candidate is not located in NYC
+- Candidate is not located in or willing to relocate to target cities
+- Candidate is not located in or willing to relocate to the required Bay Area SF location
+- Candidate is not located in preferred region
+- Candidate is not located in required region
+- Candidate is not located in the preferred region
+- Candidate is not located in the required NYC office
+- Candidate is not located in the required region
+- Candidate is not located in the required region and cannot relocate
+- Candidate is not located in the target market
+- Candidate is not located near the office
+- Candidate is not located where the role requires or is not willing to relocate
+- Candidate is not willing to relocate
+- Candidate is not willing to relocate to required location
+- Candidate is outside the required location
+- Candidate is too far from the office
+- Candidate is unavailable or unwilling to relocate
+- Candidate is unresponsive, withdrew, or has location or relocation constraints
+- Candidate is unsuitable due to location
+- Candidate is unwilling to relocate
+- Candidate is unwilling to relocate or prefers remote work
+- Candidate lacks regional ties
+- Candidate location or visa constraints prevent hiring
+- Candidate not available for in-person work in NYC
+- Candidate not located in required city
+- Candidate not located or willing to work on-site in SF
+- Candidate not willing to relocate
+- Candidate prefers a different location
+- Candidate prefers remote work but in-person is required
+- Candidate wants remote work but role is on-site
+- Candidate withdrew or is not willing to relocate
+- Candidate's location does not match on-site requirements
+- Candidate's location does not meet the role requirements
+- Candidate's location is not supported by the company
+- Candidate's location or company background does not align with requirements
+- Candidate's location or willingness to relocate does not match
+- Candidate's location preference or cultural fit does not align with the role
+- Candidate's salary expectations or location do not match
+- Candidate's timing, location, or availability does not align
+- Commute distance is a concern
+- Commute distance too long
+- Compensation expectations or relocation requirements do not match
+- Does not meet location or relocation requirements
+- Geographic distance is too far
+- Geographic location does not match preference
+- Geographic mismatch
+- Geographic or relocation constraints
+- Geographic or visa constraints
+- Location constraints
+- Location does not align with role requirements
+- Location does not match
+- Location does not match requirement
+- Location does not match requirements
+- Location does not match the required office
+- Location does not meet requirements
+- Location not in SF Bay Area
+- Location or availability prevents the candidate from being considered
+- Location or commute constraints
+- Location or commute mismatch
+- Location or in-person requirement
+- Location or legal hiring restrictions
+- Location or office attendance constraints
+- Location or office attendance issues
+- Location or onsite requirement not met
+- Location or relocation constraints
+- Location or relocation issue
+- Location or relocation issues
+- Location or timing mismatch
+- Location or work model mismatch
+- Location requirement not met
+- No suitable location or practice available
+- Not a cultural or location fit
+- Not a fit for product market or location
+- Not located in required area and relocation not justified
+- Not located in required geography
+- Not willing to relocate or meet office location requirements
+- Not willing to relocate or work on-site
+- Preference for US based candidates
+- Relocation not acceptable
+- Relocation or commute distance is a barrier
+- Relocation or compensation constraints
+- Relocation or remote work constraints
+- Remote location not acceptable
+- Role or location does not match candidate profile
+- Salary expectations or location are not a fit
+- The role is not remote
+- Unacceptable compensation expectations or relocation constraints
+- Unwilling to meet location or work-style requirements
+- Unwilling to meet office or relocation requirements
+- Unwilling to relocate to San Francisco
+- Visa or location constraints
+- Visa or remote work incompatibility
+- Visa sponsorship or location constraints prevent hiring
+- Visa sponsorship or location requirements not met
+- Visa, location, or work-authorization issues
+- Work authorization or location constraints
+- Work authorization or location constraints prevent hiring
+
+## Candidate not available or start date too late (42)
+- Availability limited by education commitments
+- Availability or location constraints
+- Availability or timing conflicts
+- Availability starts too late
+- Candidate cannot meet location or schedule requirements
+- Candidate declined or timing issue
+- Candidate does not meet graduation timeline
+- Candidate has limited availability or conflicting commitments
+- Candidate is being held for future consideration or is unavailable
+- Candidate is not available at the right time
+- Candidate is unavailable because of a current project
+- Candidate is unavailable or unwilling to relocate
+- Candidate unavailable or declined the role
+- Candidate unavailable or timing issues
+- Candidate was not available or did not move forward in a timely manner
+- Candidate withdrew or had scheduling problems
+- Candidate withdrew or unavailable
+- Candidate's timeline or availability does not align with our hiring schedule
+- Candidate's timing or availability does not align with the role
+- Candidate's timing, location, or availability does not align
+- Cannot start on the required timeline
+- Compensation expectations or timing issues
+- Compensation or availability did not align with the role
+- Currently in school or cannot start immediately
+- Education or candidate availability issues such as dropout or not actively looking
+- Incompatible work schedule or hours
+- Location or availability prevents the candidate from being considered
+- Location or timing mismatch
+- Not interested or timing not appropriate
+- Process or availability issues
+- Sponsorship or timing constraints prevent hiring
+- The candidate has timing or availability conflicts
+- The candidate withdrew or was unavailable
+- Timeline mismatch
+- Timeline or availability does not align
+- Timing constraints
+- Timing or availability issues
+- Timing or candidate withdrew
+- Timing or timeline misalignment
+- Unresponsive or scheduling problems
+- Unresponsive or unavailable for the process
+- Work schedule mismatch
+
+## Frequent job changes or short time in past jobs (182)
+- Appears too jumpy or unstable
+- Candidate appears job-hopping or not a culture fit
+- Candidate changes jobs too frequently
+- Candidate does not meet updated tenure or other new requirements
+- Candidate has a history of frequent job changes
+- Candidate has a history of job hopping or short tenures
+- Candidate has a history of short job stints
+- Candidate has a history of short job tenures
+- Candidate has a history of short stints or frequent job changes
+- Candidate has a history of short tenures
+- Candidate has a job-hopping pattern
+- Candidate has a job-hopping pattern with short tenures
+- Candidate has a pattern of frequent job changes
+- Candidate has a pattern of short job stints
+- Candidate has a pattern of short job tenures
+- Candidate has a pattern of short tenures
+- Candidate has a pattern of short-term job tenures
+- Candidate has a pattern of very short job tenures
+- Candidate has a short tenure in recent roles
+- Candidate has a short-term or contractor background
+- Candidate has an unexplained employment gap
+- Candidate has changed jobs frequently
+- Candidate has concerning employment gaps or short tenures
+- Candidate has concerning employment history such as many short stints
+- Candidate has excessive job changes
+- Candidate has frequent job changes
+- Candidate has frequent short job stints
+- Candidate has had many recent job changes
+- Candidate has inconsistent work history or frequent short stints
+- Candidate has insufficient experience or frequent job changes
+- Candidate has insufficient professional experience or short tenures
+- Candidate has insufficient tenure or many short stints
+- Candidate has limited tenure or frequent firm changes
+- Candidate has long non-firm or unrelated career gaps
+- Candidate has many short job hops
+- Candidate has many short job stints
+- Candidate has many short job tenures
+- Candidate has many short or recent stints
+- Candidate has many short tenures
+- Candidate has many short tenures or job-hopping history
+- Candidate has many short-term roles or appears job-hoppy
+- Candidate has multiple short job stints
+- Candidate has multiple short stints or job-hopping history
+- Candidate has multiple short tenures
+- Candidate has short job stints or background that does not align with the role
+- Candidate has short job tenure
+- Candidate has short job tenures
+- Candidate has short job tenures or frequent role changes
+- Candidate has short or inconsistent employment tenure
+- Candidate has short or inconsistent job tenures
+- Candidate has short or jumpy tenures
+- Candidate has short recent job tenures
+- Candidate has short tenure or frequent job changes
+- Candidate has short tenure or insufficient experience
+- Candidate has short tenures in recent roles
+- Candidate has short tenures or job hopping
+- Candidate has too many short job tenures
+- Candidate has too many short stints or insufficient tenure
+- Candidate has too many short tenures or appears job-hoppy
+- Candidate is too junior or has short tenure
+- Candidate is too junior or has very short tenure in previous roles
+- Candidate may not stay long
+- Candidate shows a concerning career trajectory such as short tenures gaps or downward growth
+- Candidate shows job-hopping or short tenures
+- Candidate shows limited stability or long-term commitment
+- Candidate shows short or unstable employment tenure
+- Candidate's career shows excessive job hopping
+- Candidate's job history shows many short tenures or frequent moves
+- Candidate's resume is heavy on short-term contracts freelance or solo work
+- Candidate's tenure or seniority is too short
+- Career history shows frequent moves or mismatched seniority
+- Concern about a career gap
+- Concerns about job stability or employment gaps
+- Concerns about short tenure and job hopping
+- Current tenure is too short
+- Employment gaps or frequent job changes
+- Employment tenure is too short
+- Excessive job hopping
+- Excessive job hopping or frequent switches
+- Excessive short stints or job-hopping
+- Experience mismatch or short tenure
+- Frequent job changes
+- Frequent job changes and short tenure
+- Frequent job changes and unclear motivation
+- Frequent job changes indicating instability
+- Frequent job changes raise stability concerns
+- Frequent job hopping
+- Frequent short job stints
+- Frequent short job stints or unstable career history
+- Frequent short job tenures and limited technical product experience
+- Frequent short job tenures indicating job hopping
+- Frequent short job tenures indicating jumpiness
+- Frequent short tenures and lack of long-term ownership
+- Frequent short tenures or job hopping
+- Frequent short tenures or job-hopping
+- Frequent short tenures or unclear career progression
+- Has a pattern of job hopping or short tenure
+- Has a pattern of short job tenures
+- Has employment gaps or short tenures
+- Has excessive job hopping
+- Has many short job stints
+- Has many short job stints or insufficient tenure
+- Has many short stints or appears to be job hopping
+- Has multiple short job tenures
+- Has short job tenures or limited senior level experience
+- Has too many short job stints
+- Hiring manager is concerned about job hopping
+- History of frequent job changes
+- History of short job tenures or job hopping
+- History of short tenures or job hopping
+- Inconsistent work history or short tenure
+- Insufficient full-time tenure or brief experience
+- Insufficient relevant experience or short tenure
+- Insufficient tenure and no visa sponsorship
+- Job hopping history
+- Job hopping or inconsistent work history
+- Job hopping or short employment stints
+- Job hopping or short tenure at previous companies
+- Lacks senior engineering tenure
+- Limited defense experience and recent job changes
+- Mismatch in company pedigree or job-hopping concerns
+- Multiple short tenures
+- Not enough overall experience or short tenure
+- Not enough relevant experience or tenure
+- Not enough tenure or shows frequent job changes
+- Poor cultural fit or unstable employment history
+- Prior job tenures were too short
+- Profile shows many short stints or is too jumpy
+- Recent employment gap
+- Recent short employment stints
+- Recent short-term job history raises concerns about long-term fit
+- Recently started at current employer
+- Resume shows many short-term positions
+- Resume shows many short-term positions indicating instability
+- Resume shows short tenure and job-hopping concerns
+- Resume shows short tenures or gaps
+- Short employment tenures
+- Short job stints or frequent job hopping
+- Short job tenure
+- Short job tenures
+- Short job tenures or employment gaps
+- Short or inconsistent job tenures
+- Short tenure at multiple companies
+- Short tenure in previous roles
+- Short tenure or employment gaps
+- Short tenure or frequent job changes
+- Short tenure or frequent job hopping
+- Short tenure or limited experience
+- Short tenure or weak job history
+- Short tenures or frequent job hopping
+- Shows a pattern of frequent job changes
+- Tenure at previous companies is too short
+- Tenure is less than 18 months
+- Tenure is too short or the candidate changes jobs frequently
+- Tenure less than required
+- Tenure or recent experience is insufficient
+- The candidate has a pattern of short job tenures
+- The candidate has a pattern of short stints or job hopping
+- The candidate has a pattern of short tenures or job hopping
+- The candidate has changed jobs frequently
+- The candidate has frequent job changes indicating stability concerns
+- The candidate has many short employment stints
+- The candidate has many short recent jobs
+- The candidate is too junior or has insufficient tenure
+- The candidate's experience level or tenure is too short for the position
+- Too junior or has short tenure
+- Too junior or short tenure
+- Too many short job stints
+- Too many short job stints or job hopping
+- Too many short job tenures
+- Too many short tenures or job hopping
+- Too many short-tenured roles
+- Too many short-term or consulting roles indicating instability
+- Too many short-term positions
+- Too many short-term roles
+- Too much job hopping
+- Unstable career history or frequent job changes
+- Unstable career history with frequent job changes
+- Unstable or overly jumpy career history
+- Unstable work history or many short stints
+- Work history appears unstable or unrelated
+- Work history shows short tenures or limited time in roles
+
+## Contractor, part-time or currently unemployed (24)
+- Candidate has a short-term or contractor background
+- Candidate has primarily contractor experience
+- Candidate is currently contracting with disallowed companies
+- Candidate is seeking or currently in a contract role that does not match our needs
+- Candidate wants more firm experience or is from a solo practice
+- Candidate wants only part-time work
+- Candidates who are consultants or contractors are not considered
+- Contractor or fraudulent concerns
+- Contractor status not acceptable
+- Current part-time role is a negative signal
+- Currently in a contract role
+- Enterprise or contract background not suitable for startup role
+- Experience only as solo practitioner
+- Has a consulting or contract background instead of full-time work
+- Not currently employed
+- Prefers long-term in-house positions
+- Primarily a contractor, consultant, or fake profile
+- Profile does not match multi-year contract focus
+- Resume contains excessive buzzwords and contract work
+- Short or recent contract durations
+- Solo practitioners are not considered
+- Too many contract roles and no proven program building
+- Unacceptable employment type
+- Unstable employment status
+
+## Candidate is overqualified or too senior (59)
+- Background is more in other industries or high level management than needed
+- Candidate exceeds required experience level
+- Candidate has excessive big-tech experience or is overqualified
+- Candidate has senior or managerial experience and is not a hands-on individual contributor
+- Candidate has too many years of experience
+- Candidate is over senior or has too many years of experience
+- Candidate is over- or under-qualified for the role
+- Candidate is over-qualified or has senior managerial experience unsuitable for the role
+- Candidate is over-qualified or not junior enough
+- Candidate is over-qualified or under-qualified for the role
+- Candidate is over-senior and exceeds the desired experience level
+- Candidate is over-senior for the role
+- Candidate is overqualified
+- Candidate is overqualified for the junior SDR role
+- Candidate is overqualified for the position
+- Candidate is overqualified for the role
+- Candidate is overqualified or experience not relevant
+- Candidate is overqualified or not hands-on
+- Candidate is overqualified or too senior for the role
+- Candidate is overqualified with too many years of experience
+- Candidate is suited for leadership roles but the position is an individual contributor
+- Candidate is too senior
+- Candidate is too senior and lacks required operational experience
+- Candidate is too senior for the position
+- Candidate is too senior for the role
+- Candidate is too senior or high level for the role
+- Candidate is too senior or late in their career
+- Candidate seniority exceeds role level
+- Experience exceeds role requirements
+- Experience level is too junior or too senior for the role
+- In-house experience exceeds the required limit
+- Need a more junior candidate with high growth potential
+- Over qualified or too senior for the role
+- Over-qualified or seniority mismatch
+- Overly senior or management-focused background
+- Overqualified for the role
+- Overqualified for the target seniority
+- Overqualified or experience exceeds role scope
+- Overqualified or misaligned career trajectory
+- Overqualified or seniority does not match the role
+- Overqualified or seniority mismatch
+- Overqualified or too experienced
+- Overqualified or too senior
+- Overqualified or too senior for the position
+- Overqualified or too senior for the role
+- Profile is too senior or leadership focused
+- Profile mismatch or overqualified
+- Senior leadership level not a fit for individual contributor role
+- The candidate has too many years of experience
+- The candidate is overqualified or too senior for the role
+- Too much experience or overqualified
+- Too much recent leadership for an individual contributor role
+- Too senior for early-stage role
+- Too senior for the role
+- Too senior or big-tech background not suitable
+- Too senior or overly corporate background
+- Too senior or overqualified for the position
+- Too senior or overqualified for the role
+- Too senior with limited growth
+
+## Poor communication (74)
+- Attitude or compensation-focused concerns
+- Candidate cannot effectively communicate or articulate work
+- Candidate demonstrated poor communication
+- Candidate demonstrated poor communication skills
+- Candidate demonstrated poor interview communication or fit
+- Candidate demonstrates poor communication skills
+- Candidate demonstrates weak communication or customer-facing abilities
+- Candidate demonstrates weak communication or presentation skills
+- Candidate did not demonstrate clear achievements or strong presentation skills
+- Candidate did not progress due to scheduling or communication issues
+- Candidate is not a culture or communication fit
+- Candidate is not a persuasive communicator
+- Candidate performed poorly in interviews or demonstrated weak communication
+- Candidate relies only on email and LinkedIn
+- Candidate showed poor communication or attention to detail
+- Candidate showed poor communication or missed interviews
+- Candidate showed poor communication or responsiveness
+- Candidate shows poor communication or interview performance
+- Candidate shows poor communication skills
+- Candidate was unresponsive or missed scheduled communications
+- Candidate's communication is overly long-winded
+- Candidate's communication or depth in interviews was insufficient
+- Communication barrier or poor cultural fit
+- Communication difficulties or lack of response were observed
+- Communication not concise or polished
+- Communication or motivation concerns were noted
+- Communication or responsiveness issues
+- Communication or team-fit concerns were noted
+- Communication problems
+- Communication skills are insufficient
+- Communication skills are not strong enough
+- Communication skills not sufficient
+- Communication style was poor or overly scripted
+- Communication was difficult and technical depth could not be verified
+- Communication was not concise or structured enough
+- Concerns about communication or cultural fit
+- Demonstrates poor communication or questioning skills
+- Interview responses showed little curiosity or poor communication
+- Lack of executive presence
+- No response to outreach or communication
+- Not a culture or communication fit
+- Poor communication and unclear answers
+- Poor communication or articulation skills
+- Poor communication or cultural fit
+- Poor communication or interpersonal abilities
+- Poor communication or interview delivery
+- Poor communication or interview performance
+- Poor communication or lack of responsiveness
+- Poor communication or low curiosity
+- Poor communication or low enthusiasm
+- Poor communication or not concise
+- Poor communication or screen quality
+- Poor communication or unclear narrative
+- Poor communication or unclear project details
+- Poor communication or vague interview answers
+- Poor communication skills
+- Poor communication skills indicated by long resume
+- Poor interview performance or communication skills
+- Previously interviewed and failed presentation
+- Shows poor communication skills
+- The candidate demonstrated weak communication
+- The candidate demonstrates weak communication skills
+- The candidate's fit or communication does not match the role
+- The resume is vague, unverifiable or appears fabricated
+- Unable to discuss work due to security restrictions
+- Unclear communication and contributions
+- Unclear communication of past experience
+- Unresponsive or poor communication
+- Weak communication or client-facing skills
+- Weak communication or confidence in executive settings
+- Weak communication or resume quality
+- Weak communication skills
+- Weak interview performance or communication
+- Written responses lack clarity and depth
+
+## Not a good culture or values fit (102)
+- Background does not match cultural or domain needs
+- Candidate appears job-hopping or not a culture fit
+- Candidate appears misaligned with the fast-paced ambiguous culture
+- Candidate does not fit our startup culture
+- Candidate does not fit the company culture
+- Candidate does not fit the culture
+- Candidate from large structured company may not adapt
+- Candidate is not a cultural fit for the team
+- Candidate is not a cultural or motivational fit
+- Candidate is not a cultural or operational fit
+- Candidate is not a cultural or policy fit
+- Candidate is not a cultural or role fit
+- Candidate is not a cultural or work-ethic fit for the team
+- Candidate is not a culture fit
+- Candidate is not a culture or communication fit
+- Candidate is not a good cultural fit
+- Candidate is not a good cultural or logistical fit
+- Candidate is not a good cultural or motivational fit
+- Candidate is not a good cultural or startup fit
+- Candidate is not a good culture fit
+- Candidate is not a good culture or attitude fit
+- Candidate is not aligned with the mission or shows little interest
+- Candidate is unlikely to fit the fast-pace culture
+- Candidate not a cultural fit
+- Candidate shows limited interest or poor culture fit
+- Candidate was not a cultural fit
+- Candidate's employment situation or cultural concerns make them unsuitable
+- Candidate's location preference or cultural fit does not align with the role
+- Candidate's overall skill alignment or culture fit is weak
+- Candidate's work style or mindset does not match our culture
+- Comes from big tech background that does not fit our culture
+- Communication barrier or poor cultural fit
+- Concerns about communication or cultural fit
+- Concerns about cultural fit, commitment, or flight risk
+- Concerns about cultural or adaptability fit
+- Concerns about cultural or environment fit
+- Concerns about cultural or vision fit
+- Concerns about resume credibility or cultural fit
+- Cultural fit and intensity concerns for a startup environment
+- Cultural fit concerns
+- Cultural fit or enthusiasm concerns
+- Cultural fit or intensity mismatch
+- Cultural misfit
+- Cultural mismatch
+- Cultural or attitude mismatch
+- Cultural or company fit concerns
+- Cultural or motivation misalignment
+- Cultural or personality fit concerns
+- Cultural or team fit concerns
+- Culture fit concerns
+- Culture fit mismatch
+- Culture fit not met
+- Culture or personality fit not suitable
+- Culture or team fit concerns
+- Current employer not a cultural fit
+- Lack of domain or cultural fit
+- Mismatch with product focus or startup culture
+- Motivation and culture fit do not align with our values
+- Not a cultural fit
+- Not a cultural or firm fit
+- Not a cultural or location fit
+- Not a cultural or role fit
+- Not a cultural or startup mindset fit
+- Not a culture fit
+- Not a culture fit or not interested
+- Not a culture or communication fit
+- Not a culture or team fit
+- Not a fit for the role or culture
+- Not a fit for the team or culture
+- Not a good cultural fit
+- Not a good cultural fit for the team
+- Not a good cultural or curiosity fit
+- Not a good culture fit
+- Not a good fit for the role or culture
+- Personality not a good fit
+- Personality or cultural fit not aligned with fast pace
+- Poor communication or cultural fit
+- Poor cultural fit
+- Poor cultural fit for startup environment
+- Poor cultural fit or irrelevant background
+- Poor cultural fit or low business curiosity
+- Poor cultural fit or unstable employment history
+- Poor cultural or age fit
+- Poor cultural or mission fit
+- Poor cultural or passion fit
+- Poor cultural or role fit
+- Poor cultural or soft-skill fit
+- Poor cultural or startup fit
+- Poor cultural or team fit
+- Poor cultural or work-style fit
+- Poor culture fit
+- Poor culture or personality fit
+- Poor interview performance or cultural fit
+- Poor overall or cultural fit
+- Soft-skill or cultural fit concerns
+- The candidate is not a cultural fit
+- The candidate is not a cultural or team fit
+- The candidate is not a good cultural fit
+- The candidate is not a good cultural fit or lacks interest
+- The candidate is not a good fit for the role or company culture
+- Weak motivation or cultural fit for the role
+- Work history shows red flags or poor cultural fit
+
+## Candidate failed or did not complete an interview or test (159)
+- Application was removed or not submitted
+- Assessment not completed or failed
+- Candidate could not be contacted or did not schedule interview
+- Candidate declined or missed the interview or did not respond
+- Candidate demonstrated insufficient technical depth in interviews
+- Candidate did not attend or respond to interview scheduling
+- Candidate did not complete or put effort into the required take-home exercise
+- Candidate did not engage or was unprepared
+- Candidate did not meet performance bar
+- Candidate did not meet the talent or signal bar
+- Candidate did not respond or failed to complete interview scheduling
+- Candidate did not respond or schedule an interview
+- Candidate did not respond or schedule interview
+- Candidate did not respond to outreach or interview invitations
+- Candidate did not schedule interview or withdrew
+- Candidate did not schedule or attend an interview
+- Candidate did not submit or complete the take-home assignment
+- Candidate did not submit required materials or application was deleted
+- Candidate failed required technical interview rounds
+- Candidate failed the technical interview
+- Candidate failed the technical interview assessments
+- Candidate failed the technical or hiring-manager screen
+- Candidate failed the Zoom coding interview
+- Candidate failed to attend interview
+- Candidate failed to complete the interview process
+- Candidate failed to convince the team during conversation
+- Candidate failed to demonstrate required technical depth in interview
+- Candidate failed to respond or schedule required interviews
+- Candidate failed to schedule or attend interviews
+- Candidate failed to schedule or respond to interview
+- Candidate failed to schedule or respond to interview requests
+- Candidate is already in another interview pipeline or recently interviewed
+- Candidate missed deadlines or failed to follow through
+- Candidate missed interview or performed poorly in interview
+- Candidate missed interviews or failed to schedule properly
+- Candidate missed or cancelled the scheduled interview
+- Candidate missed scheduled interview
+- Candidate missed the scheduled interview
+- Candidate no-show for interview
+- Candidate performed poorly in assessment
+- Candidate performed poorly in interview or has weak profile
+- Candidate performed poorly in interview or lacks necessary energy
+- Candidate performed poorly in interviews
+- Candidate performed poorly in interviews or demonstrated weak communication
+- Candidate performed poorly in technical interview
+- Candidate performed poorly in the interview
+- Candidate performed poorly in the phone screen
+- Candidate performed poorly on assessments or simulations
+- Candidate performed poorly on case study
+- Candidate performed poorly on technical assessments
+- Candidate provided insufficient detail on relevant experience during interview
+- Candidate showed low interest or poor interview impression
+- Candidate showed poor communication or missed interviews
+- Candidate showed unprofessional behavior or no-show
+- Candidate shows poor communication or interview performance
+- Candidate unresponsive or no show or withdrew
+- Candidate was unprepared about the company or role
+- Candidate was unresponsive or cancelled interviews
+- Candidate was unresponsive or missed interview
+- Candidate was unresponsive or missed scheduled calls
+- Candidate was unresponsive or missed scheduled interviews
+- Candidate was unresponsive to outreach or interview scheduling
+- Candidate withdrew or backed out and did not complete the process
+- Candidate withdrew or did not attend interview
+- Candidate withdrew or did not show up
+- Candidate withdrew or no-showed or accepted another offer
+- Candidate withdrew or was never interviewed
+- Candidate withdrew, was unresponsive, or missed the interview
+- Candidate's communication or depth in interviews was insufficient
+- Demonstrated skill gaps during assessment
+- Did not advance after interview
+- Did not attend interview
+- Did not complete or pass the coding assessment
+- Did not follow up or schedule interview
+- Did not meet performance bar
+- Did not meet technical interview bar
+- Did not pass the initial screen
+- Did not pass the interview or panel
+- Did not pass the technical case study
+- Did not pass the technical interview
+- Did not perform well in case study
+- Did not respond or missed scheduled interviews
+- Did not schedule interview
+- Did not schedule interview or lacked engagement
+- Failed coding interview
+- Failed core interview assessments such as problem solving or workflow design
+- Failed onsite interview
+- Failed or incomplete assessment project
+- Failed take-home assessment
+- Failed technical assessments
+- Failed technical interview
+- Failed technical interview or demonstrated insufficient technical skill
+- Failed technical interview or did not show up
+- Failed technical or take-home assessment
+- Failed technical screen
+- Failed technical screen or poor technical fit
+- Failed the initial assignment
+- Failed the live coding assessment
+- Failed the onsite interview
+- Failed the required exercise
+- Failed the technical interview
+- Failed to schedule interview
+- Failed TypeScript screening questions
+- Fails to answer screening questions clearly
+- Failure to meet technical interview expectations
+- Insufficient interview information or candidate withdrew from process
+- Insufficient technical assessment performance
+- Interview performance did not demonstrate required qualification skills
+- Interview performance or attendance issues
+- Interview preparation was lacking
+- Lacking required skills or failed interviews
+- Missed interview or failed to schedule
+- Missed interview or no-show
+- Missed or skipped interview
+- Missed or was late to interviews
+- Missed scheduled interview calls
+- No response or interview no-show
+- No response or interview not scheduled
+- No response or interview scheduled
+- No response or missed interview scheduling
+- No response, no show, withdrew or accepted another offer
+- No show for interview
+- No-show or late to interview
+- Not a fit after recruiter screen
+- Not a fit after recruiter screening
+- Phone screen performance was poor
+- Poor communication or interview delivery
+- Poor communication or interview performance
+- Poor interview performance
+- Poor interview performance or communication skills
+- Poor interview performance or cultural fit
+- Poor interview performance or no show
+- Poor interview performance or preparation
+- Poor interview preparation or performance
+- Poor performance in technical assessment
+- Poor performance in technical interviews
+- Poor take-home assessment performance
+- Poor technical interview performance
+- Previously applied or interviewed and not a fit
+- Take-home or technical assessment did not meet the quality bar
+- Technical assessment or interview performance insufficient
+- Technical assessment performance insufficient
+- Technical performance is weak in coding challenges or AI knowledge
+- The candidate demonstrated poor technical skills in interviews
+- The candidate did not complete the interview process or had salary expectations that were too high
+- The candidate failed the assessment
+- The candidate failed the technical assessment
+- The candidate withdrew or did not show up or the role was already filled
+- Unresponsive or did not schedule interview
+- Unresponsive or failed to schedule interview
+- Unresponsive or missed interview steps
+- Unresponsive or missed scheduled interview
+- Unresponsive or no show
+- Unresponsive or no-show
+- Unresponsive or no-show during interview process
+- Weak interview performance or communication
+- Weak interview performance or no show
+- Weak performance in technical assessment
+- Weak technical performance in interviews
+
+## No startup experience, or only large-company background (202)
+- Background is too corporate or big-company
+- Candidate background is in large enterprises not startups
+- Candidate comes from a FAANG background which we avoid
+- Candidate does not demonstrate a scrappy early-stage mindset
+- Candidate does not have demonstrated 0-to-1 product building or entrepreneurial impact
+- Candidate does not have early-stage startup or small-company experience
+- Candidate does not have enough experience or startup exposure
+- Candidate does not have enough startup or AI focused background
+- Candidate does not have high-growth startup experience
+- Candidate does not have relevant startup or fast-growing company experience
+- Candidate does not have required hyper-growth or large-scale experience
+- Candidate does not have required startup experience
+- Candidate does not have startup experience
+- Candidate does not have startup or VC-backed experience
+- Candidate does not have zero-to-one startup or product ownership experience
+- Candidate has excessive experience at large or late-stage companies
+- Candidate has insufficient early stage sales experience
+- Candidate has insufficient startup or small-company background
+- Candidate has limited startup or complex product experience
+- Candidate has no startup or 0-1 product experience
+- Candidate has only held non-AE roles at large enterprises
+- Candidate has only large-enterprise background
+- Candidate has primarily big-tech experience and lacks startup or end-to-end ownership
+- Candidate is not a good cultural or startup fit
+- Candidate lacked early-stage startup experience
+- Candidate lacks 0-1 startup experience
+- Candidate lacks consumer-facing startup experience
+- Candidate lacks early stage experience
+- Candidate lacks early stage high growth startup experience
+- Candidate lacks early stage startup experience
+- Candidate lacks early-stage or founding engineering experience
+- Candidate lacks early-stage or relevant industry experience
+- Candidate lacks early-stage ownership and ambiguity appetite
+- Candidate lacks early-stage VC-backed startup experience
+- Candidate lacks experience at a high-growth Series A or B company
+- Candidate lacks experience at fast-growing early-stage startups
+- Candidate lacks experience at high-growth or Tier-1 startups
+- Candidate lacks experience at leading or venture-backed startups
+- Candidate lacks experience in early-stage or hyper-growth environments
+- Candidate lacks experience in small startups
+- Candidate lacks high-growth startup experience
+- Candidate lacks high-growth startup or AI experience
+- Candidate lacks high-growth startup or high-signal company experience
+- Candidate lacks high-growth startup or strong company pedigree
+- Candidate lacks high-growth startup sales experience
+- Candidate lacks high-growth venture-backed AI startup experience
+- Candidate lacks real startup operator experience
+- Candidate lacks relevant startup experience
+- Candidate lacks relevant startup or high-growth experience
+- Candidate lacks relevant startup or hyper-growth experience
+- Candidate lacks required early stage founding GTM experience
+- Candidate lacks startup experience
+- Candidate lacks startup or early-stage experience
+- Candidate lacks startup or hyper-growth experience
+- Candidate lacks startup or relevant company experience
+- Candidate lacks startup or relevant industry experience
+- Candidate lacks startup or scrappy experience
+- Candidate lacks startup or small company experience
+- Candidate lacks startup or small-company experience
+- Candidate lacks sufficient B2B SaaS or high-growth startup experience
+- Candidate lacks sufficient startup or full-stack experience
+- Candidate lacks tier 1 fast growing startup experience
+- Candidate lacks tier-1 or high-growth startup pedigree
+- Candidate lacks top-growth startup or high-tier company experience
+- Candidate prefers larger teams or companies and is not a fit for a very small early-stage startup
+- Candidate shows little interest or clear motivation for an early-stage startup
+- Candidate's background is in large public companies
+- Candidate's background is limited to large legacy companies and incremental work
+- Candidate's background is primarily large or low-tier companies rather than high-growth startups
+- Candidate's experience does not match early-stage generalist growth needs
+- Candidate's experience is mostly at large companies
+- Candidate's past companies are not high-calibre or fast-growing
+- Candidates from larger firms are preferred
+- Comes from big-tech or non-preferred background
+- Comes from big-tech or non-top-tier background
+- Comes from large companies rather than the target background
+- Cultural fit and intensity concerns for a startup environment
+- Does not align with our startup focus
+- Does not have early stage startup experience
+- Does not have early-stage startup experience
+- Experience at large companies not applicable
+- Experience is centered on large-enterprise infrastructure
+- Experience is dominated by large companies rather than high-growth startups
+- Experience is more suited to large enterprises or services than a startup
+- Experience not aligned with our company size
+- Experience primarily at large enterprises
+- Experience primarily at large enterprises rather than high-tech environments
+- Has only big-tech experience
+- Has only mid-level startup experience
+- Insufficient AI-native startup deployment experience
+- Insufficient B2C or high-growth startup experience
+- Insufficient domain or startup leadership experience
+- Insufficient early stage startup experience
+- Insufficient early-stage startup experience
+- Insufficient early-stage startup operating experience
+- Insufficient experience at a big tech or top-tier startup
+- Insufficient experience at high-growth SaaS or relevant startups
+- Insufficient experience at high-growth VC-backed startups
+- Insufficient experience at VC-backed or recognized startups
+- Insufficient high growth startup or top tier company experience
+- Insufficient high-growth startup experience
+- Insufficient SaaS or startup experience
+- Insufficient startup experience
+- Insufficient startup experience and design portfolio
+- Insufficient startup or AI background
+- Insufficient startup or high-caliber tech company background
+- Insufficient startup or product experience
+- Insufficient startup or top-company background
+- Insufficient startup ownership experience
+- Lack of early-stage startup experience
+- Lack of high-growth startup experience
+- Lack of high-growth startup or product-first company experience
+- Lack of recent startup experience
+- Lack of relevant high growth startup experience
+- Lack of relevant startup or domain experience
+- Lack of small team or startup experience
+- Lack of startup experience
+- Lack of startup or 0-1 product experience
+- Lack of startup or hands-on hardware experience
+- Lack of startup or small-company background
+- Lacking early-stage or product-focused experience
+- Lacking US accounting or startup experience
+- Lacks diverse experience beyond a single startup
+- Lacks early stage VC-backed startup experience
+- Lacks early-stage or 0-1 growth experience
+- Lacks early-stage or successful startup experience
+- Lacks early-stage startup experience
+- Lacks early-stage startup or high-ownership experience
+- Lacks early-stage startup signal
+- Lacks experience at a recognizable startup or top-tier tech company
+- Lacks experience at high-growth or AI-focused companies
+- Lacks experience at high-growth startups or fast-moving companies
+- Lacks experience scaling a $100M ARR startup
+- Lacks high growth startup ownership
+- Lacks high growth VC backed startup experience
+- Lacks high-growth B2C startup experience
+- Lacks high-growth fintech startup experience
+- Lacks high-growth startup experience
+- Lacks relevant domain or 0-1 startup experience
+- Lacks required early-stage sales experience
+- Lacks required high-voltage or startup experience
+- Lacks required VC-backed early-stage startup experience
+- Lacks startup experience
+- Lacks startup or B2B SaaS experience
+- Lacks startup or early-stage experience
+- Lacks startup or fast-moving company experience
+- Lacks startup or high-growth experience
+- Lacks startup or relevant industry background
+- Lacks startup or VC-backed experience
+- Lacks sufficient engineering experience at high-growth VC-backed startups
+- Lacks top-tier or high-growth startup experience
+- Lacks top-tier startup or founding experience
+- Mismatch with company size or stage
+- Missing early-stage startup experience
+- Missing early-stage startup or founding team experience
+- Missing high-growth startup experience
+- Missing startup experience
+- Missing startup or early-stage experience
+- Missing startup or high-growth experience
+- Missing top-tier school or S-tier startup signal
+- Missing VC-backed startup experience
+- Motivation not aligned with a seed-stage startup
+- No 0-to-1 high-growth AI experience
+- No early-stage or high-growth startup background
+- No experience at top tier fintech startups
+- No experience in a startup or Series A environment
+- No high-growth startup background
+- No prior early-stage startup or product experience
+- No startup experience or cultural fit
+- No startup or 0-1 experience
+- No startup or entrepreneurial experience
+- Not a cultural or startup mindset fit
+- Not a fit at early stage
+- Not a fit at late stage
+- Not a fit for a small low-structure early-stage role
+- Not a fit for early stage role
+- Not a fit for late stage role
+- Not enough early-stage or startup experience
+- Not enough early-stage startup experience
+- Not enough experience at high-growth B2C consumer startups
+- Not enough relevant startup experience
+- Not enough startup experience
+- Overly big-company background or not compelling past employers
+- Overly focused on large-company or SRE/devops work, not a startup fit
+- Poor cultural or startup fit
+- Prior company or background not from top-tier tech or consumer startups
+- Recent experience is at a legacy company
+- Recent role at a very small startup
+- The candidate does not have early-stage or high-growth startup experience
+- The candidate lacks early-stage B2B startup or FDE-focused background
+- The candidate lacks early-stage startup or founder experience
+- The candidate lacks high-growth startup experience
+- The candidate lacks higher caliber early stage startup experience
+- The candidate lacks relevant startup experience
+- The candidate lacks startup experience
+- The candidate lacks startup or VC-backed experience
+- The candidate's experience at large companies is a negative signal
+- Too much big company experience
+- Too much big-company experience
+- Too much big-tech or large-company background
+- Too senior or overly corporate background
+- Wrong product stage or pipeline expectations
+
+## Education or past companies not strong enough (204)
+- Academic background does not match the role
+- Academic credentials are below the hiring bar
+- Academic credentials do not meet the target university criteria
+- Bachelor's degree is not mechanical engineering
+- Background from weak or unrelated companies
+- Background from weaker companies or teams
+- Background not impressive or notable
+- Background or pedigree was considered weak or unrelated
+- Candidate did not attend a tier 1 undergraduate university
+- Candidate did not attend a top school
+- Candidate does not attend a tier 1 undergraduate university
+- Candidate does not demonstrate proven excellence or top-tier background
+- Candidate does not have a CS degree
+- Candidate does not have a degree from a top university
+- Candidate does not have a high-caliber company background
+- Candidate does not have a relevant CS or strong engineering degree
+- Candidate does not have a required CS or engineering degree
+- Candidate does not have a standout pedigree
+- Candidate does not have a strong or impressive profile
+- Candidate does not have a US undergraduate degree
+- Candidate does not have experience at high-caliber or recognizable firms
+- Candidate does not have frontier-lab or S-tier research background
+- Candidate does not have high-caliber or top-tier company background
+- Candidate does not have pedigree from recognized firms
+- Candidate does not have the required JD degree
+- Candidate does not have the required technical undergraduate degree or STEM background
+- Candidate does not have top-tier big-tech or high-caliber company background
+- Candidate does not have US JD from an ABA-accredited school
+- Candidate does not meet the required experience or education level
+- Candidate does not show elite background or high horsepower
+- Candidate has insufficient experience or pedigree
+- Candidate has limited experience at high-engineering-bar organizations
+- Candidate has not demonstrated top-tier performance
+- Candidate lacks a strong pedigree or reputable background
+- Candidate lacks a top tier academic pedigree
+- Candidate lacks a US JD
+- Candidate lacks experience at a high-signal VC-backed frontier tech company
+- Candidate lacks experience at a top tier firm
+- Candidate lacks experience at large or high-caliber companies
+- Candidate lacks experience at top-tier companies or established scale-ups
+- Candidate lacks experience at top-tier or well-funded tech companies
+- Candidate lacks experience at top-tier tech or relevant trading product
+- Candidate lacks high-growth startup or strong company pedigree
+- Candidate lacks pedigree or strong background
+- Candidate lacks prestigious companies or schools
+- Candidate lacks recognizable pedigree or credibility from school or past employer
+- Candidate lacks relevant experience or education
+- Candidate lacks required background or pedigree
+- Candidate lacks required credentials
+- Candidate lacks required degree and CPG experience
+- Candidate lacks required domain or educational background
+- Candidate lacks required education
+- Candidate lacks strong full-time engineering experience at reputable companies
+- Candidate lacks sufficient experience or academic credentials
+- Candidate lacks sufficient research or academic credentials
+- Candidate lacks tier-1 or high-growth startup pedigree
+- Candidate lacks top tier education or employer background
+- Candidate lacks top-school or top-company pedigree
+- Candidate lacks top-tier company or school pedigree
+- Candidate lacks top-tier or relevant pedigree from FAANG/quant firms
+- Candidate profile was not impressive or too basic
+- Candidate's background does not match the desired company stage or caliber
+- Candidate's background is at low-caliber or slow-moving companies
+- Candidate's credentials or education do not meet requirements
+- Candidate's current firm is not a target or strong boutique for the role
+- Candidate's education background does not meet the required standards
+- Candidate's education or degree does not meet requirements
+- Candidate's education or past companies are not prestigious enough
+- Candidate's foreign legal education raises concerns
+- Candidate's past companies are not high-calibre or fast-growing
+- Candidate's previous companies are not a good prestige or scale fit
+- Candidate's previous companies are not relevant
+- Candidate's previous companies are not strong enough for the role
+- Candidate's previous employers are not impressive
+- Candidate's prior companies are considered low-caliber or non-technical
+- Candidate's prior companies do not match our target profile
+- Candidate's prior companies or education are not high enough prestige
+- Candidate's prior employer or role is below the desired talent tier
+- Candidate's technical background or degree does not match requirements
+- Comes from lower-quality companies
+- Comes from non notable companies
+- Company is not a target
+- Company or pedigree is not strong enough
+- Company pedigree is low or not top tier
+- Current employer is an excluded company
+- Current employer is too small
+- Currently in school or cannot start immediately
+- Disliked the candidate's educational background
+- Does not come from a top-tier tech company
+- Does not have a top 30 US STEM undergraduate degree
+- Does not have a top-school CS degree as required
+- Does not have a top-tier school pedigree
+- Does not have a top-tier university or prestigious firm background
+- Does not have required degree
+- Does not have the required technical degree
+- Does not have top tier firm or school background
+- Does not meet academic or U.S. work experience criteria
+- Does not meet education location requirements
+- Does not meet education or background requirements
+- Does not meet education requirements
+- Does not meet location or school eligibility criteria
+- Does not meet pedigree or primary bar
+- Does not meet pedigree or top-tier background
+- Does not meet undergraduate education requirements
+- Education background does not meet the required pedigree
+- Education background is not strong enough
+- Education background or GPA is below our standards
+- Education credentials do not meet requirements
+- Education does not meet our bar
+- Education does not meet required bar
+- Education does not meet required criteria
+- Education does not meet requirements
+- Education does not meet the whitelist requirements
+- Education not aligned with role
+- Educational background does not meet requirements
+- Educational background does not meet target criteria
+- Educational background does not meet the required pedigree
+- Educational background is insufficient or lacks advanced degree
+- Educational background is weak or not from top institutions
+- Experience at companies not considered a good fit
+- Experience does not match our target company profile
+- Experience from companies we do not target
+- Experience is from non-target companies or schools
+- GPA below required minimum
+- GPA below requirement
+- Insufficient academic background
+- Insufficient academic credentials or firm experience
+- Insufficient coverage of marquee names in AI and defense tech
+- Insufficient elite pedigree or proven excellence
+- Insufficient high growth startup or top tier company experience
+- Insufficient pedigree or experience level
+- Insufficient pedigree or reputable company background
+- Insufficient professional pedigree or education background
+- Insufficient qualifications such as PhD or published work
+- Insufficient signal of excellence or pedigree
+- Insufficient startup or high-caliber tech company background
+- Insufficient technical experience or education
+- Insufficient US work experience or education
+- Lacks elite background or high-impact signals
+- Lacks experience at a recognizable startup or top-tier tech company
+- Lacks experience at strong engineering or high-density companies
+- Lacks experience at top-tier companies
+- Lacks required AmLaw pedigree
+- Lacks required experience or education
+- Lacks required experience or signal of top-tier talent
+- Lacks top tier education or company pedigree
+- Lacks top-tier or high-growth startup experience
+- Low pedigree or domain signal
+- Mismatch in company pedigree or job-hopping concerns
+- Mismatch with target company profile
+- Missing computer science or equivalent degree
+- Missing proof of excellence in work or education
+- Missing required degree or questionable profile
+- Missing required education or degree
+- Missing required engineering degree or qualifications
+- Missing required product or education credentials
+- Missing required qualifications such as visa or education
+- Missing required skills, qualifications, or education
+- Missing required top university degree
+- Missing top-tier education or tech pedigree
+- Missing top-tier pedigree or spike
+- Missing top-tier school or S-tier startup signal
+- No background at strong engineering culture companies
+- No experience at high-profile or big-tech companies
+- No experience with exciting or relevant companies
+- No relevant CS or software engineering degree
+- No top university CS or engineering degree or $15M ARR scaling
+- Not enough software engineering experience or required CS degree
+- Not from a top 20 university
+- Overly academic background
+- Pedigree or prestige background too low
+- Pedigree or track record not strong enough
+- Previous company not relevant or strong enough
+- Previous employer not a strong engineering company
+- Prior companies or projects are not of the desired quality
+- Prior company or background not from top-tier tech or consumer startups
+- Profile lacks standout achievements or top-tier background
+- Resume or academic background not strong enough
+- The candidate attended an unknown university
+- The candidate does not hold the required J.D. degree
+- The candidate has a weak educational background
+- The candidate has only worked at low-complexity companies
+- The candidate lacks elite school and work experience
+- The candidate lacks experience at strong or elite companies
+- The candidate's education background does not meet our criteria
+- The candidate's past companies are too large or of low quality
+- The resume pedigree is insufficient
+- Unclear credibility from education or past employers
+- Unconvincing prior company or role relevance
+- Undergrad not from a US school
+- Undergraduate degree not from a US institution
+- Undergraduate degree not from preferred regions
+- Unfavorable company pedigree or logo
+- Weak academic or company background
+- Weak company background
+- Weak education or company background
+- Weak educational or company background
+- Weak engineering background or not from a strong engineering culture
+- Weak founder background
+- Weak or missing educational background
+- Weak or negative company or education signal
+- Weak signals of excellence from school or company
+- Work experience is at mediocre companies and lacks relevant AI exposure
+- Work history is unimpressive or from low-tier companies
+
+## Lacks ownership, drive or leadership (80)
+- Candidate did not demonstrate sufficient client relationship ownership
+- Candidate did not demonstrate technical ownership of build processes
+- Candidate did not show ownership of projects or attention to detail
+- Candidate does not demonstrate ownership of product work
+- Candidate does not demonstrate sufficient ownership or critical-path impact
+- Candidate does not have demonstrated 0-to-1 product building or entrepreneurial impact
+- Candidate does not have enough customer-facing or product ownership experience
+- Candidate does not have zero-to-one startup or product ownership experience
+- Candidate has limited end-to-end mechanical design ownership
+- Candidate has primarily big-tech experience and lacks startup or end-to-end ownership
+- Candidate is not a cultural or motivational fit
+- Candidate is not a good cultural or motivational fit
+- Candidate lacks desired startup drive
+- Candidate lacks end-to-end growth funnel ownership
+- Candidate lacks extensive engineering leadership of entire function
+- Candidate lacks leadership experience
+- Candidate lacks leadership or management experience
+- Candidate lacks leadership or team-building experience
+- Candidate lacks measurable product-led growth ownership
+- Candidate lacks preparation and initiative
+- Candidate lacks required seniority or leadership experience
+- Candidate lacks senior leadership and team-building experience
+- Candidate lacks sufficient leadership experience
+- Candidate performed poorly in interview or lacks necessary energy
+- Candidate showed low energy or insufficient ambition
+- Candidate showed unclear motivation for joining the company
+- Candidate shows insufficient motivation or interest
+- Candidate shows insufficient product ownership or product thinking
+- Candidate shows little passion or clear direction
+- Candidate shows weak product sense and ownership
+- Candidate's experience is limited to integration or consulting rather than end-to-end platform ownership
+- Candidate's experience is too narrow or shallow and lacks end-to-end ownership
+- Candidate's motivation or role fit does not align
+- Communication or motivation concerns were noted
+- Cultural fit or intensity mismatch
+- Cultural or motivation misalignment
+- Did not own end-to-end partnership delivery
+- Does not demonstrate enough exceptionalism or intensity
+- Does not have sufficient leadership experience
+- Does not show ownership or confidence
+- Fit concerns such as limited ownership or desire to run own agency
+- Frequent job changes and unclear motivation
+- Frequent short tenures and lack of long-term ownership
+- Insufficient autonomy experience
+- Insufficient drive intensity or agency
+- Insufficient operational ownership or hands-on depth
+- Insufficient people-management experience
+- Insufficient people-management or engineering manager experience
+- Insufficient perception algorithm and leadership experience
+- Insufficient product or AI leadership focus
+- Insufficient product or customer impact and ownership experience
+- Insufficient product ownership experience
+- Insufficient product ownership or developer-facing product experience
+- Insufficient technical achievements and ownership
+- Lack of builder signal and whole-app ownership
+- Lack of demonstrated platform ownership and technical decision making
+- Lack of ownership and product judgment
+- Lack of product thinking problem solving or metric driven experience
+- Lacking people management experience
+- Lacks early-stage startup or high-ownership experience
+- Lacks end-to-end product ownership experience
+- Lacks entrepreneurial or analytical rigor
+- Lacks recent head of sales leadership experience
+- Limited concrete examples of ownership and results
+- Limited senior leadership or management experience
+- Management or leadership experience is insufficient
+- Missing leadership details in resume
+- Missing required technical skills or product ownership
+- Motivation and culture fit do not align with our values
+- Motivation misalignment
+- No demonstrated deal ownership with a quantified size
+- No end-to-end product ownership
+- No proven product ownership or delivery record
+- No startup or entrepreneurial experience
+- Not motivated or has taken another job
+- Poor cultural or passion fit
+- Profile is too senior or leadership focused
+- Resume shows little ownership or business impact
+- Unclear motivation or passion for the role
+- Weak motivation or cultural fit for the role
+
+## Too junior, or seniority level does not match (148)
+- Application removed or internal rejection due to process changes
+- Candidate does not have a promotion history or sufficient seniority
+- Candidate does not have enough seniority or depth of experience
+- Candidate does not have senior systems architect experience
+- Candidate does not have sufficient senior-level or full-time mechanical engineering experience
+- Candidate does not have sufficient seniority or years of experience
+- Candidate does not have the seniority or years of experience required
+- Candidate does not meet senior level experience or depth requirements
+- Candidate does not meet the required principal or staff level
+- Candidate does not meet the required seniority level
+- Candidate is not at the senior staff level required
+- Candidate is not senior enough for a staff level role
+- Candidate is not senior enough for full design ownership
+- Candidate is not senior enough for the role
+- Candidate is over-qualified or has senior managerial experience unsuitable for the role
+- Candidate is over-qualified or not junior enough
+- Candidate is too junior
+- Candidate is too junior for the level
+- Candidate is too junior for the role
+- Candidate is too junior for the senior role
+- Candidate is too junior for the senior SWE Design bar
+- Candidate is too junior or does not have enough experience
+- Candidate is too junior or has insufficient depth
+- Candidate is too junior or has insufficient experience
+- Candidate is too junior or has insufficient years of experience
+- Candidate is too junior or has short tenure
+- Candidate is too junior or has very short tenure in previous roles
+- Candidate is too junior or lacks enough overall experience
+- Candidate is too junior or lacks enough years of experience
+- Candidate is too junior or lacks relevant experience
+- Candidate is too junior or lacks required experience
+- Candidate is too junior or lacks required years of experience
+- Candidate is too junior or lacks seniority
+- Candidate is too junior or lacks sufficient experience
+- Candidate is too junior or lacks sufficient full-time experience
+- Candidate is too junior or technically underqualified
+- Candidate is too senior or high level for the role
+- Candidate is underqualified or too junior
+- Candidate lacked required experience or skill level
+- Candidate lacks required experience or seniority
+- Candidate lacks required seniority or leadership experience
+- Candidate lacks seniority or enough experience
+- Candidate was previously engaged or internal policy prevents credit
+- Candidate's career path does not match the expected experience level
+- Candidate's experience does not meet principal level expectations
+- Candidate's experience level falls outside the target range
+- Candidate's seniority level does not match the individual contributor role
+- Candidate's seniority level does not match the position
+- Candidate's seniority level does not match the role
+- Candidate's seniority level is not a fit for the role
+- Candidate's seniority or role expectations do not match the position
+- Candidate's seniority or title does not match the role requirements
+- Candidate's skills or seniority do not match the role
+- Candidate's tenure or seniority is too short
+- Career history shows frequent moves or mismatched seniority
+- Compensation or level mismatch
+- Compensation or seniority expectations misaligned
+- Does not meet senior Principal level requirements
+- Does not meet senior-level expectations
+- Does not meet seniority or performance bar
+- Does not meet seniority or staff-level expectations
+- Does not meet the required qualification level
+- Duplicate or internal applicant
+- Experience does not meet the required level
+- Experience level does not align with the role
+- Experience level does not match role
+- Experience level is outside the desired range
+- Experience level is too junior or too senior for the role
+- Experience level or role does not match the individual-contributor sales engineer position
+- Experience not relevant for this level
+- Has short job tenures or limited senior level experience
+- Insufficient experience for senior level
+- Insufficient experience level
+- Insufficient experience or seniority
+- Insufficient experience or too junior
+- Insufficient formal or senior product management experience
+- Insufficient full-stack depth for senior role
+- Insufficient or mismatched experience level
+- Insufficient overall experience level
+- Insufficient overall experience or seniority
+- Insufficient pedigree or experience level
+- Insufficient relevant experience or seniority
+- Insufficient senior fund formation experience
+- Insufficient senior level experience
+- Insufficient senior or full-stack experience
+- Insufficient senior-level or overall experience
+- Insufficient seniority for role
+- Insufficient seniority for the role
+- Insufficient seniority or full-time experience
+- Insufficient seniority or growth trajectory
+- Insufficient technical experience or junior level
+- Is too junior or does not have enough experience
+- Lack of staff level experience
+- Lacks senior level expertise
+- Lacks senior strategic experience
+- Lacks sufficient experience or is too junior
+- Lacks sufficient experience or seniority for the role
+- Mismatch in seniority level
+- Mismatch in seniority or level
+- More senior candidate is needed
+- Need for immediate senior-level support
+- No current opening or focus on senior level
+- Not enough experience or seniority
+- Not enough experience or seniority for the position
+- Not enough hands-on engineering experience or seniority
+- Not enough overall experience for a senior role
+- Not enough overall seniority or depth
+- Not enough relevant experience or too junior
+- Not enough seniority or experience
+- Not senior enough for the role
+- Not senior enough to lead projects
+- Over-qualified or seniority mismatch
+- Overall experience level does not match role expectations
+- Overall qualifications are below the required level
+- Overqualified or seniority does not match the role
+- Overqualified or seniority mismatch
+- Profile is too junior or lacks sufficient experience
+- Salary or seniority exceeds the role limits
+- Senior level mismatch
+- Senior or role mismatch
+- Senior-level expectations not met
+- Seniority does not match the role
+- Seniority level does not match the role
+- Seniority level mismatch
+- Seniority or career-stage does not match the early-founder engineer profile
+- Seniority or salary expectations exceed the role
+- The candidate appears too junior to lead a team
+- The candidate does not have enough years or seniority for the position
+- The candidate has insufficient experience or is too junior
+- The candidate has not progressed to a senior-level role
+- The candidate is too junior or has insufficient tenure
+- The candidate lacks relevant experience or seniority
+- The candidate's experience level or tenure is too short for the position
+- The candidate's seniority or compensation expectations do not match
+- Too junior for the role
+- Too junior for the seniority required
+- Too junior or does not have enough years of experience
+- Too junior or does not meet experience year requirements
+- Too junior or has insufficient experience
+- Too junior or has short tenure
+- Too junior or lacking experience
+- Too junior or lacking sufficient experience
+- Too junior or lacks required years of experience
+- Too junior or lacks seniority for the role
+- Too junior or limited professional experience
+- Too junior or not enough experience
+- Too junior or short tenure
+- Underqualified or too junior for the role
+
+## Industry or domain experience does not match (206)
+- Background does not align with required domain or role
+- Background does not match cultural or domain needs
+- Background does not match domain
+- Background does not match target industry
+- Background does not match the domain of the role
+- Background does not match the target industry
+- Background doesn't align with target market
+- Background not relevant to the role's domain
+- Buyer persona or industry does not match the role
+- Candidate background is in unrelated high-level or ML areas
+- Candidate comes from regulated or niche industries we avoid
+- Candidate comes from unrelated industry
+- Candidate demonstrates weak communication or customer-facing abilities
+- Candidate does not have developer-facing or dev-tools experience
+- Candidate does not have enough customer-facing or product ownership experience
+- Candidate does not have sufficient product or customer-facing experience
+- Candidate does not have the required technical skills or domain knowledge
+- Candidate has limited overall SaaS or tech sales experience
+- Candidate has only B2C experience
+- Candidate is missing required domain or skill expertise
+- Candidate is missing required product or domain knowledge such as AI or clinical software
+- Candidate is more of a CRO or sales leader
+- Candidate is not currently in an AE or quota-carrying sales role
+- Candidate is not hands-on in the required AI/ML domain
+- Candidate is not interested in or familiar with the health-tech domain
+- Candidate is too focused on crypto or blockchain
+- Candidate lacks AI or agent sales experience
+- Candidate lacks client-facing or healthcare domain experience
+- Candidate lacks commercial EQ or customer-facing product experience
+- Candidate lacks consumer product experience
+- Candidate lacks deep-tech or aerospace/defense industry experience
+- Candidate lacks demonstrated recruiting excellence
+- Candidate lacks early-stage or relevant industry experience
+- Candidate lacks enterprise AE experience
+- Candidate lacks enterprise SaaS experience
+- Candidate lacks experience selling technical B2B products
+- Candidate lacks experience with developer-facing products
+- Candidate lacks healthcare or clinical domain experience
+- Candidate lacks post-sales or customer-facing onboarding experience
+- Candidate lacks pre-sales or post-sales experience
+- Candidate lacks product or customer facing experience
+- Candidate lacks relevant healthcare or EHR experience
+- Candidate lacks relevant industry experience
+- Candidate lacks relevant product or industry experience
+- Candidate lacks required domain expertise
+- Candidate lacks required domain or educational background
+- Candidate lacks required fintech experience
+- Candidate lacks required industry experience
+- Candidate lacks required SaaS outbound or cold-calling skills
+- Candidate lacks startup or relevant industry experience
+- Candidate lacks sufficient B2B SaaS or high-growth startup experience
+- Candidate lacks the required domain or experience
+- Candidate's background does not align with product or customer focus
+- Candidate's background is mainly account management or customer success
+- Candidate's background is more content or operations than growth marketing
+- Candidate's background is primarily finance or analytics with limited operational exposure
+- Candidate's background is too narrow or industry specific
+- Candidate's background is unrelated to SaaS sales
+- Candidate's domain expertise does not match the role
+- Candidate's experience is in an unrelated industry
+- Candidate's experience is in the wrong M&A market or practice area
+- Candidate's role is product marketing not growth marketing
+- Company or industry background is not a good fit
+- Company or industry fit not suitable
+- Current company or industry is a poor fit
+- Customer success background not suitable
+- Deal size and customer profile not a fit
+- Deal sizes and sales cycles are larger than needed
+- Does not have healthcare experience
+- Does not understand growth impact and appears as sales ops
+- Domain expertise does not match aerospace requirements
+- Domain focus does not match role
+- Domain mismatch or wrong domain
+- Domain or industry mismatch
+- Domain or role mismatch
+- Domain or technology mismatch
+- Enterprise or contract background not suitable for startup role
+- Experience does not align with dense SaaS or devtools product UI
+- Experience does not match the required domain
+- Experience does not match Timescapes stage or industry
+- Experience focused on the wrong domain
+- Experience focused on unrelated domains such as fintech or security
+- Experience in unrelated domain
+- Experience is focused on sales rather than product delivery
+- Experience is in the wrong domain
+- Experience is mainly B2B or enterprise rather than consumer mobile
+- Experience is more suited to large enterprises or services than a startup
+- Experience is not relevant to the role or domain
+- Experience level or role does not match the individual-contributor sales engineer position
+- Experience not aligned with target market
+- Inadequate sales experience for the role
+- Industry and product background does not align
+- Industry background not a fit
+- Industry expertise does not match the role
+- Industry or product domain does not align with our needs
+- Insufficient AE or quota-carrying experience
+- Insufficient applied AI or domain expertise
+- Insufficient B2C consumer experience
+- Insufficient B2C or high-growth startup experience
+- Insufficient brand experience
+- Insufficient business sense or customer focus
+- Insufficient customer-facing agent deployment experience
+- Insufficient customer-facing experience
+- Insufficient customer-facing implementation experience
+- Insufficient domain expertise
+- Insufficient domain or startup leadership experience
+- Insufficient domain specific design experience
+- Insufficient enterprise product marketing experience
+- Insufficient enterprise SaaS quota-carrying experience
+- Insufficient enterprise sales or closing experience
+- Insufficient experience in GTM technology
+- Insufficient GTM experience
+- Insufficient partnership and healthcare regulatory experience
+- Insufficient presales experience
+- Insufficient product or customer impact and ownership experience
+- Insufficient product ownership or developer-facing product experience
+- Insufficient pure product marketing experience
+- Insufficient quota-carrying or proven closing record
+- Insufficient recruiting experience
+- Insufficient relevant experience or domain expertise
+- Insufficient relevant sales experience or quota performance
+- Insufficient SaaS or startup experience
+- Insufficient sales experience
+- Insufficient SMB sales experience
+- Lack of consumer or relevant industry experience
+- Lack of crypto or financial domain expertise
+- Lack of domain or cultural fit
+- Lack of performance marketing experience
+- Lack of relevant company or industry experience
+- Lack of relevant healthcare domain experience
+- Lack of relevant market or domain experience
+- Lack of relevant sales experience
+- Lack of relevant sales motion or fintech SaaS experience
+- Lack of relevant startup or domain experience
+- Lack of required technical domain experience
+- Lack of sales or product-selling experience
+- Lacked required SaaS or devtools experience
+- Lacking required domain or industry experience
+- Lacks accounting domain expertise and enterprise sales experience
+- Lacks customer-facing or forward-deployed experience
+- Lacks customer-facing or sales experience
+- Lacks customer-facing or user-experience background
+- Lacks deployment or customer success experience
+- Lacks enterprise sales experience
+- Lacks experience building or leading a product marketing function
+- Lacks finance and accounting domain expertise
+- Lacks recent consumer technology experience
+- Lacks relevant AI or mid-market experience
+- Lacks relevant domain experience
+- Lacks relevant domain or 0-1 startup experience
+- Lacks relevant domain or engineering experience
+- Lacks relevant industry or domain expertise
+- Lacks relevant product or domain experience
+- Lacks relevant real estate development and finance experience
+- Lacks relevant technical or customer-facing experience
+- Lacks required AI research experience or domain expertise
+- Lacks required commercial or pre-sales experience
+- Lacks required manufacturing or supply chain domain expertise
+- Lacks startup or B2B SaaS experience
+- Lacks startup or relevant industry background
+- Lacks sufficient full-stack product experience on B2C products
+- Limited experience with complex or enterprise products
+- Low pedigree or domain signal
+- Mismatch in sales focus or technical level
+- Mismatch with ideal customer profile
+- Mismatch with required industry focus
+- Mismatch with required industry or domain expertise
+- Mismatch with target buyer personas
+- Mismatched industry or functional background
+- Missing client-facing or enterprise experience
+- Missing domain expertise in LLM or applied AI
+- Missing healthcare billing background
+- Missing implementation or customer-facing experience
+- Missing relevant domain expertise
+- Missing required domain experience such as finance or AI
+- Missing required domain expertise
+- Missing SaaS fintech domain experience
+- Missing specific domain expertise
+- Missing technical or domain expertise
+- Mission or domain mismatch with creative-data focus
+- No background in regulated fintech
+- No experience selling to technical buyers
+- No hands-on healthcare experience
+- No relevant healthcare recruiting experience
+- No relevant industry experience
+- No response from candidate or recruiter
+- Not a fit for company or industry experience
+- Not a fit for product market or location
+- Not aligned with the mission or problem domain
+- Not enough B2B enterprise experience
+- Not enough bio or AI domain experience
+- Not enough Enterprise AE experience
+- Not enough fintech experience
+- Not enough pre-sales solutions engineering experience
+- Poor fit with company or industry
+- Required sales skills or qualifications are missing
+- Research focus does not align with AI agents or LLM domain
+- Resume emphasizes pipeline generation over closed revenue
+- Role or domain mismatch
+- Sales method does not match company
+- Sector focus does not align with role
+- The candidate has no applied AI or fintech experience
+- The candidate lacks client-facing or customer interaction experience
+- The candidate lacks relevant product or domain experience
+- The candidate lacks required social media and UGC marketing experience
+- The candidate's experience is not in the target industry
+
+## Missing required skills or technical depth (494)
+- AI expertise only appears on resume without concrete examples
+- Backend experience is uncertain
+- Background does not align with the role's technical focus
+- Background does not match requirements
+- Background focused on infrastructure rather than product code
+- Background focused on software not hardware leadership
+- Background focuses on unrelated areas such as platform or ML Ops
+- Background in recommendation ads or search ranking is a mismatch
+- Background is more designer or engineer than a design engineer
+- Background is more product design than design engineering
+- Background is not in developer-tools API or data-infrastructure companies
+- Background is too design-focused for the engineering role
+- Background is too MLE or infrastructure focused instead of research
+- Background too internal or overly technical for the role
+- Candidate background does not match the infra role
+- Candidate cannot meet relocation or nationality requirements
+- Candidate cannot meet visa or onsite requirements
+- Candidate could not demonstrate low-level circuit analysis
+- Candidate did not demonstrate enough strength or fit for the role
+- Candidate did not demonstrate hands-on AI-native workflow
+- Candidate did not demonstrate sufficient technical depth
+- Candidate did not meet the qualifications
+- Candidate did not meet the technical bar
+- Candidate does not build models from scratch
+- Candidate does not demonstrate an AI-native way of working
+- Candidate does not demonstrate sufficient depth or rigor in modeling
+- Candidate does not demonstrate sufficient technical depth
+- Candidate does not have a software engineering background
+- Candidate does not have direct machine learning engineering experience
+- Candidate does not have enough full-stack or backend depth
+- Candidate does not have enough hands-on hardware experience
+- Candidate does not have enough product-management depth or is not a product manager
+- Candidate does not have enough seniority or depth of experience
+- Candidate does not have enough startup or AI focused background
+- Candidate does not have fullstack or backend engineering experience
+- Candidate does not have hard-tech mechanical electrical or CAD background
+- Candidate does not have product-focused engineering experience
+- Candidate does not have production C++ work on onboard vehicle systems
+- Candidate does not have required skills or experience
+- Candidate does not have required technical depth in AI or agentic systems
+- Candidate does not have required technical skills
+- Candidate does not have sufficient full-time software engineering depth
+- Candidate does not have sufficient senior-level or full-time mechanical engineering experience
+- Candidate does not have the required AI/ML expertise
+- Candidate does not have the required practice area expertise
+- Candidate does not have the required technical skills or domain knowledge
+- Candidate does not hold a VP or equivalent title
+- Candidate does not meet minimum qualifications
+- Candidate does not meet required skills or qualifications
+- Candidate does not meet senior level experience or depth requirements
+- Candidate does not meet specific experience requirements
+- Candidate does not meet the MBB background requirement
+- Candidate does not meet the requirements
+- Candidate does not meet the technical depth or quality bar
+- Candidate does not meet updated tenure or other new requirements
+- Candidate does not show evidence of solving difficult problems
+- Candidate focuses only on backend work
+- Candidate has limited or weak ML experience
+- Candidate has no experience with vehicle sensors or hardware integration
+- Candidate has no production LLM system experience
+- Candidate has not owned a live consumer trading system at scale
+- Candidate is missing key technical skills for the role
+- Candidate is missing required domain or skill expertise
+- Candidate is missing required technical skills or specific language experience
+- Candidate is missing required technical skills such as software deployment or cloud infrastructure
+- Candidate is more a manager or leader than a hands-on engineer
+- Candidate is more engineering oriented than research oriented
+- Candidate is more managerial than technical
+- Candidate is more of a data scientist than a full-stack AI product engineer
+- Candidate is overqualified or not hands-on
+- Candidate is primarily a data scientist or ML engineer rather than a software engineer
+- Candidate is too junior or has insufficient depth
+- Candidate is too junior or technically underqualified
+- Candidate lacked high-level system understanding
+- Candidate lacked required skills
+- Candidate lacks a long record of owning production AI systems
+- Candidate lacks agentic AI experience
+- Candidate lacks AI or agent sales experience
+- Candidate lacks AI safety experience
+- Candidate lacks AI-focused or AI-native experience
+- Candidate lacks deep hands-on mobile app experience
+- Candidate lacks early-stage or founding engineering experience
+- Candidate lacks experience shipping large-scale production or customer-facing features
+- Candidate lacks full-stack architecture experience
+- Candidate lacks full-stack or complex system engineering skills
+- Candidate lacks hands-on C++ experience for vehicle software
+- Candidate lacks hands-on data platform or pipeline experience
+- Candidate lacks hands-on engineering experience
+- Candidate lacks hands-on experience with retrieval or large-scale AI systems
+- Candidate lacks hands-on infrastructure or application code experience
+- Candidate lacks hands-on production ML and data-pipeline experience
+- Candidate lacks high-growth startup or AI experience
+- Candidate lacks knowledge of the company or product
+- Candidate lacks lender side expertise
+- Candidate lacks product engineering experience
+- Candidate lacks production full-stack experience
+- Candidate lacks recent AI/ML platform experience
+- Candidate lacks recent experience with physical infrastructure
+- Candidate lacks recent hands-on coding experience
+- Candidate lacks relevant ML infrastructure experience
+- Candidate lacks required core software engineering skills
+- Candidate lacks required low-level C++ experience
+- Candidate lacks required operational skills
+- Candidate lacks required qualifications
+- Candidate lacks required SaaS outbound or cold-calling skills
+- Candidate lacks required skills
+- Candidate lacks required skills or experience
+- Candidate lacks required skills or qualifications
+- Candidate lacks required skills or technical fit
+- Candidate lacks required skills or technical qualifications
+- Candidate lacks required software engineering experience
+- Candidate lacks required specific skills or qualifications
+- Candidate lacks required technical experience
+- Candidate lacks required technical expertise
+- Candidate lacks required technical focus
+- Candidate lacks required technical skills
+- Candidate lacks required technical skills or qualifications
+- Candidate lacks required technical strength
+- Candidate lacks side projects or real-world product experience
+- Candidate lacks strong full-stack product experience
+- Candidate lacks strong technical or software engineering depth
+- Candidate lacks sufficient ML experience
+- Candidate lacks sufficient startup or full-stack experience
+- Candidate lacks sufficient technical depth
+- Candidate lacks sufficient technical or coding ability
+- Candidate lacks technical experience
+- Candidate lacks technical or AI product selling experience
+- Candidate lacks the required technical depth for the role
+- Candidate overall skill set does not match the role
+- Candidate shows insufficient technical integration or API expertise
+- Candidate shows weak product judgment and decision making
+- Candidate works mainly on ML ops or inference
+- Candidate's background does not match requirements
+- Candidate's background does not match the required tech stack
+- Candidate's background does not match the role requirements
+- Candidate's background is focused on hardware or integration rather than software
+- Candidate's background is focused on solutions data or ML rather than core engineering
+- Candidate's background is not a CS or software engineering one
+- Candidate's background is not product focused or hands-on builder
+- Candidate's background is research-scientist rather than infra engineer
+- Candidate's background is too focused on AI/ML or data science
+- Candidate's background is too infrastructure- or backend-focused and lacks frontend full-stack product work
+- Candidate's engineering depth is insufficient
+- Candidate's experience is AI/ML infrastructure instead of required DevOps platform
+- Candidate's experience is focused on data science rather than engineering
+- Candidate's experience is not relevant to the software engineering LLM production role
+- Candidate's experience is primarily in Python or other non-C++ languages
+- Candidate's experience is too DevOps or infrastructure heavy
+- Candidate's focus is engineering rather than research
+- Candidate's focus is on ML, analytics or consulting rather than core data engineering
+- Candidate's location or company background does not align with requirements
+- Candidate's ML expertise is in the wrong area for the role
+- Candidate's overall skill alignment or culture fit is weak
+- Candidate's overall skillset or experience does not match the specific role
+- Candidate's portfolio is missing or not impressive
+- Candidate's portfolio or content quality is insufficient
+- Candidate's prior companies are considered low-caliber or non-technical
+- Candidate's recent coding experience is outdated or missing
+- Candidate's recent work is more product management than engineering
+- Candidate's seniority or title does not match the role requirements
+- Candidate's skill scope does not match the role
+- Candidate's skill set does not match the required CAD/FEA or broad mechanical engineering exposure
+- Candidate's skill set does not match the required technology
+- Candidate's skill set is too backend-focused and lacks full-stack or user-facing experience
+- Candidate's skills or seniority do not match the role
+- Candidate's skillset does not match the role
+- Candidate's tech stack does not match the required technologies
+- Candidate's technical background does not match the role's requirements
+- Candidate's technical background or degree does not match requirements
+- Candidate's technical skills do not match the role
+- Candidate's TypeScript JavaScript or core technical skills are insufficient
+- Candidate's work is focused on backend or infrastructure rather than end-user product
+- Communication was difficult and technical depth could not be verified
+- Demonstrates poor communication or questioning skills
+- Design aesthetic does not match requirements
+- Design decisions and rationale did not meet expectations
+- Did not meet CATS requirements
+- Does not have required skills
+- Does not have required skills or experience
+- Does not have required skills or qualifications
+- Does not have required technical skills or depth
+- Does not have the required research-oriented background for the applied ML/AI role
+- Does not have the required skills or experience
+- Does not have the required skills or qualifications
+- Does not meet AI expertise bar
+- Does not meet education or background requirements
+- Does not meet minimum qualifications
+- Does not meet required qualifications
+- Does not meet required skills or qualifications
+- Does not meet required technical skills or qualifications
+- Does not meet skill or qualification requirements
+- Does not meet technical requirements
+- Does not meet technical skill requirements
+- Does not meet the technical bar
+- Engineering background not strong enough
+- Engineering or production experience does not meet our bar
+- Experience does not match role requirements
+- Experience does not match the role requirements
+- Experience is too hardware focused
+- Experience limited to applied AI rather than core research
+- Failed technical interview or demonstrated insufficient technical skill
+- Failed technical screen or poor technical fit
+- Focuses on infrastructure rather than hands-on modeling
+- Frequent short job tenures and limited technical product experience
+- Frontend experience is insufficient
+- General lack of required skills or qualifications
+- General mismatch with the role requirements
+- Generalist background without sufficient depth
+- GitHub or portfolio is empty and shows no high-slope work
+- Good mission fit but insufficient product or engineering fit
+- Has limited AI agent engineering experience
+- Has not led AI/ML production teams
+- Has not shipped a live product
+- Has not shipped partner integrations
+- Inactive or missing GitHub portfolio
+- Inadequate experience with LLM post-training or benchmark creation
+- Insufficient agent or LLM building experience
+- Insufficient AI expertise
+- Insufficient AI or horizontal AI experience
+- Insufficient AI or LLM experience
+- Insufficient AI or machine learning experience
+- Insufficient AI product tooling experience
+- Insufficient applied AI or domain expertise
+- Insufficient backend specialization
+- Insufficient data science or machine learning depth
+- Insufficient depth in anti-bot mechanisms
+- Insufficient depth in required programming languages
+- Insufficient depth or curiosity for the role
+- Insufficient development programming experience
+- Insufficient distributed systems or backend experience
+- Insufficient engineering experience
+- Insufficient full-time engineering experience
+- Insufficient Go or core backend experience
+- Insufficient Go software engineering depth
+- Insufficient hands-on coding experience
+- Insufficient hands-on engineering experience
+- Insufficient hands-on infrastructure or security experience
+- Insufficient hardware experience
+- Insufficient hardware or industrial experience
+- Insufficient hardware or robotics experience
+- Insufficient operational ownership or hands-on depth
+- Insufficient people-management or engineering manager experience
+- Insufficient perception algorithm and leadership experience
+- Insufficient product engineering or technical depth
+- Insufficient product or full-stack experience
+- Insufficient product-focused engineering experience
+- Insufficient production AI experience
+- Insufficient production electrical engineering experience
+- Insufficient professional or software engineering experience
+- Insufficient proven hands-on experience
+- Insufficient Python experience
+- Insufficient relevant experience in ML infrastructure
+- Insufficient relevant software engineering experience
+- Insufficient relevant technical experience
+- Insufficient research experience or depth in AI agents and LLMs
+- Insufficient Rust or low-level engineering experience
+- Insufficient senior or full-stack experience
+- Insufficient skills or experience
+- Insufficient skills or qualifications
+- Insufficient software engineering experience or qualifications
+- Insufficient startup experience and design portfolio
+- Insufficient startup or AI background
+- Insufficient technical achievements and ownership
+- Insufficient technical depth
+- Insufficient technical depth especially with APIs
+- Insufficient technical depth for the role
+- Insufficient technical depth in working session
+- Insufficient technical depth or experience
+- Insufficient technical depth or qualifications
+- Insufficient technical depth or relevant engineering background
+- Insufficient technical depth or wrong skill focus
+- Insufficient technical experience for the role
+- Insufficient technical experience or education
+- Insufficient technical experience or junior level
+- Insufficient technical knowledge
+- Insufficient technical or engineering experience
+- Insufficient technical product management experience
+- Insufficient technical skills
+- Insufficient technical skills or experience
+- Lack of AI experience
+- Lack of AI or LLM experience
+- Lack of AI or technical experience
+- Lack of AI product depth
+- Lack of consumer-facing full-stack or AI experience
+- Lack of deep core ML systems development experience
+- Lack of deep data engineering or modern data stack experience
+- Lack of demonstrated platform ownership and technical decision making
+- Lack of end-user or user-facing product focus
+- Lack of full stack experience
+- Lack of hands-on motion planning experience
+- Lack of hardware integration or test experience
+- Lack of ownership and product judgment
+- Lack of product engineering focus
+- Lack of public code contributions
+- Lack of recent hands-on robotics work
+- Lack of relevant technical or IT knowledge
+- Lack of required practice area expertise
+- Lack of required skills or qualifications
+- Lack of required technical depth
+- Lack of required technical depth or algorithmic skills
+- Lack of required technical or product expertise
+- Lack of startup or hands-on hardware experience
+- Lack of technical depth and problem solving ability
+- Lack of understanding of the specific role requirements
+- Lacked demonstrated PMM metrics or technical depth
+- Lacking required skills
+- Lacking required skills or failed interviews
+- Lacking required skills or qualifications
+- Lacking required technical skills or knowledge
+- Lacking required technical skills or qualifications
+- Lacks AI or relevant technology focus
+- Lacks applied AI experience
+- Lacks deep AI or production experience
+- Lacks deep computer vision expertise
+- Lacks depth in messaging and positioning
+- Lacks direct AI or agent platform experience
+- Lacks embedding retrieval and search infrastructure experience at scale
+- Lacks experience at high-growth or AI-focused companies
+- Lacks experience building LLM or AI systems
+- Lacks experience building low level systems
+- Lacks experience with agentic AI systems
+- Lacks experience with large-scale or dynamic tooling
+- Lacks full-stack and product development experience
+- Lacks generalist backend engineering experience
+- Lacks hands-on accounting exposure
+- Lacks hands-on AI experience
+- Lacks hands-on AI-native building experience
+- Lacks hands-on engineering or individual contributor experience
+- Lacks multi-modal data ingestion expertise
+- Lacks production level experience
+- Lacks professional software engineering experience
+- Lacks recent TypeScript or hands-on coding experience
+- Lacks relevant AI or full-stack product experience
+- Lacks relevant AI or mid-market experience
+- Lacks relevant applied AI or technical experience
+- Lacks relevant domain or engineering experience
+- Lacks relevant technical or customer-facing experience
+- Lacks required AI infrastructure expertise
+- Lacks required AI research experience or domain expertise
+- Lacks required experience or qualifications
+- Lacks required experience or technical skills
+- Lacks required skills
+- Lacks required skills and qualifications
+- Lacks required skills or experience
+- Lacks required skills or qualifications
+- Lacks required skills or qualifications for the role
+- Lacks required skills or security experience
+- Lacks required software engineering experience
+- Lacks required technical depth
+- Lacks required technical experience
+- Lacks required technical expertise
+- Lacks required technical or product skills
+- Lacks required technical skills
+- Lacks required technical skills or qualifications
+- Lacks Skills/Qualifications
+- Lacks strong product or full-stack experience
+- Limited AI or generative AI expertise
+- Limited depth of experience and lack of shipped products
+- Limited full-stack or relevant technical depth
+- Little experience with dynamic structural tooling
+- Location or onsite requirement not met
+- Logo design is weak
+- Low UI UX quality
+- Missing AI or technical expertise needed
+- Missing AI platform experience
+- Missing core backend and database expertise
+- Missing domain expertise in LLM or applied AI
+- Missing hands-on browser automation or agent-tooling experience for external developers
+- Missing product management or software engineering background
+- Missing required domain experience such as finance or AI
+- Missing required engineering degree or qualifications
+- Missing required experience or qualifications
+- Missing required model or creative AI experience
+- Missing required non-technical experience
+- Missing required skills
+- Missing required skills or qualifications
+- Missing required skills or qualifications for the role
+- Missing required skills or relevant experience
+- Missing required skills, qualifications, or education
+- Missing required tech stack
+- Missing required technical depth in ML or math background
+- Missing required technical expertise
+- Missing required technical skills
+- Missing required technical skills or product ownership
+- Missing required technical skills or qualifications
+- Missing required technical skills such as RL environments or generative modeling
+- Missing storytelling or creative brand focus
+- Missing technical or domain expertise
+- Need modern LLM expertise
+- No portfolio or personal projects
+- No portfolio or work samples were provided
+- No portfolio website was provided
+- No proven production experience with LLMs
+- No public code or side projects shown
+- Not a fit for role requirements or compensation expectations
+- Not a technical or engineering match
+- Not enough AI or AI-native experience
+- Not enough full-stack or product experience
+- Not enough hands-on AI/ML experience
+- Not enough hands-on engineering experience or seniority
+- Not enough overall engineering experience
+- Not enough overall seniority or depth
+- Not enough relevant data engineering experience
+- Not enough software engineering experience or required CS degree
+- Not enough technical depth or research experience
+- Not technical enough for a design engineer role
+- Over-specialized in AI or compliance instead of general data engineering
+- Overemphasis on LLMs
+- Overly backend focused
+- Overly focused on infrastructure rather than product engineering
+- Overly focused on large-company or SRE/devops work, not a startup fit
+- Overly research or ML focused and lacks product engineering
+- Pace or technical depth mismatch
+- Poor cultural or soft-skill fit
+- Poor demonstration of ML or CS fundamentals
+- Portfolio access not provided
+- Portfolio and past work were not strong enough
+- Portfolio craft does not meet our bar
+- Portfolio does not match our creative focus
+- Portfolio does not meet our standards
+- Portfolio does not show complex B2B design skills
+- Portfolio does not show required design style
+- Portfolio lacks the required UI polish and craft
+- Portfolio or work samples are weak
+- Portfolio quality is insufficient
+- Portfolio visuals or craft not strong enough for our product focus
+- Portfolio was not approved by the design engineer and CEO
+- Portfolio was not compelling or demonstrated poor design quality
+- Portfolio was weak or unconvincing
+- Prior work on models that are too small or not at required scale
+- Profile does not match role requirements
+- Project description is vague or lacks technical depth
+- Provides vague or insufficient technical details
+- Required sales skills or qualifications are missing
+- Research depth insufficient
+- Research focus does not align with AI agents or LLM domain
+- Skill background does not match role
+- Skill level or work examples are insufficient
+- Skill set does not align with role
+- Skill set does not match role
+- Skill set does not match the platform engineer role
+- Skill set does not match the team's current needs
+- Skill set not a current match
+- Skills do not match the role
+- Skills mismatch with creator economy
+- Skillset does not match current needs
+- Soft-skill or cultural fit concerns
+- Stack mismatch or missing required TypeScript full-stack skills
+- Strong background but does not meet AI-native workflow requirements
+- Tech stack or domain does not match the role
+- Technical background does not match requirements
+- Technical experience does not match the required ML infrastructure skills
+- Technical fundamentals are insufficient
+- Technical performance is weak in coding challenges or AI knowledge
+- Technical skills below expectations
+- Technical skills do not match the role
+- Technical skills do not meet the SWE bar
+- Technical skills or ability do not meet requirements
+- Technical skills or depth are insufficient
+- Technical skills or depth are insufficient for the role
+- Technical strength is insufficient
+- Technology stack does not match our needs
+- Technology stack mismatch
+- The background is heavily platform or DevOps focused
+- The candidate does not demonstrate required AI-native tool usage
+- The candidate does not have enough technical depth
+- The candidate does not have the required technical or data skills
+- The candidate does not meet the required years of engineering experience or core skills
+- The candidate has no applied AI or fintech experience
+- The candidate has no hands-on tracking or sensor-fusion work
+- The candidate has not owned a search engine's indexing or serving infrastructure
+- The candidate has not owned ranking or relevance work that improved production metrics
+- The candidate lacks deep machine learning or AI expertise
+- The candidate lacks experience building benchmarks and evaluation infrastructure
+- The candidate lacks required skills
+- The candidate lacks required skills or qualifications
+- The candidate lacks required technical skills
+- The candidate provided no portfolio or evidence of design skills
+- The candidate's background does not match the role requirements
+- The candidate's background is too research or ML heavy and not product focused
+- The candidate's evaluation work is not their primary expertise
+- The candidate's skill focus does not match our needs
+- The candidate's technical background does not match the role
+- The candidate's technical depth does not match the company stage
+- Too focused on data engineering rather than platform engineering
+- Too junior or does not meet experience year requirements
+- UI/UX taste does not match our needs
+- Unable to clearly explain technical solutions
+- Unwilling to meet location or work-style requirements
+- We prefer a hands-on individual contributor profile
+- Weak communication or client-facing skills
+- Weak portfolio or low contributions
+- Weak technical skills or not a technical fit
+- Work samples are missing or low quality
+
+## Unclear career goals, growth or work history (40)
+- Candidate appears fraudulent or cannot verify work history
+- Candidate does not have a promotion history or sufficient seniority
+- Candidate does not show a sharp career trajectory
+- Candidate expectations are unclear
+- Candidate has inconsistent work history or frequent short stints
+- Candidate interest does not align with role
+- Candidate is not interested or the role does not align with their goals
+- Candidate lacks a recent move with a concrete reason
+- Candidate lacks the required high-slope trajectory
+- Candidate showed unclear career goals
+- Candidate shows limited career progression or recent performance plateau
+- Candidate wants a different career path than the role
+- Candidate's career goals do not align with the role
+- Candidate's career goals or company size preferences do not align with the role
+- Candidate's career goals or role expectations do not align with the position
+- Candidate's career interests do not align with the role
+- Candidate's overall work history is considered weak or unconvincing
+- Career goals or interest do not align with the position
+- Career path does not align
+- Career path not aligned with role
+- Career progression is too slow for senior level
+- Career progression is unclear
+- Employment history raises concerns
+- Frequent short tenures or unclear career progression
+- Inconsistent or weak career trajectory
+- Inconsistent promotion history
+- Inconsistent work history or short tenure
+- Insufficient career progression
+- Interests or motivations misaligned with role
+- Job hopping or inconsistent work history
+- Lacks required experience or stable work history
+- Limited career progression
+- Limited career progression or velocity
+- Overqualified or misaligned career trajectory
+- Slow or inconsistent career progression
+- Slow or limited career progression
+- The candidate has not demonstrated large-scale agent work
+- Uncertain ability to architect complex pipelines
+- Weak prior work history
+- Work history shows red flags or poor cultural fit
+
+## No clear results or achievements shown (49)
+- Candidate did not demonstrate clear achievements or strong presentation skills
+- Candidate does not demonstrate clear business impact or commercial focus
+- Candidate does not demonstrate proven excellence or top-tier background
+- Candidate does not demonstrate sufficient ownership or critical-path impact
+- Candidate does not provide clear quota attainment numbers
+- Candidate does not show enough impact
+- Candidate has insufficient experience or impact
+- Candidate lacks demonstrable high impact work
+- Candidate lacks exceptional achievements
+- Candidate provides no measurable impact or metrics
+- Candidate provides no performance metrics
+- Candidate's quota attainment is below required level
+- Candidate's resume shows no measurable results
+- Cannot meet required quota or ACV levels
+- Does not demonstrate exceptional results or metrics
+- Does not understand growth impact and appears as sales ops
+- Insufficient elite pedigree or proven excellence
+- Insufficient evidence of excellence
+- Insufficient impact or achievements
+- Insufficient relevant sales experience or quota performance
+- Insufficient signal of excellence or pedigree
+- Insufficient volume or impact with target creators
+- Lack of measurable results
+- Lacked demonstrated PMM metrics or technical depth
+- Lacks demonstrated scale or impressive quantitative results
+- Lacks elite background or high-impact signals
+- Lacks high impact or high scale work history
+- Lacks impressive achievements
+- Missing proof of excellence
+- Missing proof of excellence in work or education
+- No clear high-impact or extraordinary achievements
+- No clear outcome-focused achievements
+- No clear signal of excellence
+- No demonstrated data-driven impact
+- No demonstrated impact
+- No evidence of standout performance or excellence
+- No major performance spikes in past work
+- No measurable impact or concrete results shown
+- Resume does not include quantitative performance metrics
+- Resume is vague and does not show impact
+- Resume lacks sales performance metrics
+- Resume shows little ownership or business impact
+- Sales performance metrics below expectations
+- Sales performance not sufficiently differentiated
+- The resume does not demonstrate measurable business outcomes
+- The resume shows little or no product or user-facing impact
+- Unable to show impact metrics
+- Unclear impact or achievements in recent position
+- Weak sales signals for a rigorous process driven environment
+
+## Concerns about behavior, trust or commitment (26)
+- Arrived late to interview
+- Candidate appears overconfident
+- Candidate has limited availability or conflicting commitments
+- Candidate is not fully committed to a startup role
+- Candidate lacks focus
+- Candidate presents reputation or character risk
+- Candidate raised credibility or red-flag concerns
+- Candidate raises concerns about long-term commitment
+- Candidate showed unprofessional behavior
+- Candidate shows limited stability or long-term commitment
+- Candidate shows reliability or attitude concerns
+- Candidate was not transparent about past conviction
+- Concern about divided focus or double-dipping
+- Concerns about candidate's behavior or fit
+- Concerns about cultural fit, commitment, or flight risk
+- Concerns about professionalism or discretion
+- Concerns about resume credibility or cultural fit
+- Criminal background discovered after submission
+- Disciplinary history is a dealbreaker
+- Interview performance raises credibility concerns
+- Negative reference checks or poor past work quality
+- Open-for-work or recruiter callout is considered a red flag
+- Performance is declining
+- Profile appears fraudulent or lacks credibility
+- Profile flagged as fraudulent or low credibility
+- Resume credibility or verification concerns
+
+## Job role or focus does not match the candidate (61)
+- Appears too generalist
+- Applied for wrong role or application removed
+- Background focuses on unrelated areas such as platform or ML Ops
+- Background not aligned with security focus
+- Background was not a fit for the account-management role
+- Better fit for a different role or not a good fit for this role
+- Better fit for an SDR role
+- Candidate does not demonstrate clear business impact or commercial focus
+- Candidate does not have enough product-management depth or is not a product manager
+- Candidate is a better fit for a different role
+- Candidate is not a product designer or has the wrong role
+- Candidate is not a pure AE or seller role
+- Candidate is not the right role
+- Candidate is too software focused and lacks electromechanical experience
+- Candidate's background does not match the role focus
+- Candidate's background is account-management or senior leadership rather than new-logo hunting
+- Candidate's background is focused on solutions data or ML rather than core engineering
+- Candidate's background is not product focused or hands-on builder
+- Candidate's background is not relevant to our robotics focus
+- Candidate's desired role does not match
+- Candidate's experience does not align with the partner role scope
+- Candidate's experience does not match scope or compensation range
+- Candidate's experience does not match the specific focus
+- Candidate's experience is focused on operations rather than strategy
+- Candidate's experience is not focused exclusively on tax controversy
+- Candidate's focus does not match the role
+- Candidate's focus is on growth, consumer, or internal tools rather than core product work
+- Candidate's overall fit or role scope does not align with team needs
+- Candidate's practice focus does not match tech and IP transactions
+- Candidate's role preferences do not match team needs
+- Focus not aligned with role
+- Focuses only on business development
+- Lacking early-stage or product-focused experience
+- Lacks AI or relevant technology focus
+- Misaligned on role scope or focus
+- Misaligned technical interests or focus
+- Mismatch with product focus or startup culture
+- Mismatch with role expectations
+- Mismatched with role expectations
+- More account-management focus than hunting
+- Not a product manager for data-engineer focused products
+- Not the right role fit
+- Off-brief or irrelevant experience focus
+- Over-specialized in ML or niche technologies
+- Overly focused on large-company or SRE/devops work, not a startup fit
+- Overqualified or experience exceeds role scope
+- Poor fit with company focus
+- Prior work not relevant to the role
+- Role does not match candidate's status
+- Role expectations do not match the position
+- Role mismatch
+- Role not a good match for the candidate
+- Solutions engineering background is a disqualifying factor
+- The candidate is too far from the required tech focus
+- The candidate lacks early-stage B2B startup or FDE-focused background
+- The candidate's background is too research or ML heavy and not product focused
+- The candidate's practice area does not align with the firm's focus
+- The evaluation focus does not match the required extraction objective
+- Too research focused
+- Too specialized and not general enough
+- Wrong role fit
+
+## Position is still active (1)
+- Position is still active and not closed
+
+## Recruiter or hiring manager did not respond (7)
+- Hiring manager not interested
+- Hiring manager unresponsive
+- No response from recruiter
+- No response received from the firm
+- Recruiter did not respond
+- Recruiter did not respond to candidate questions
+- The recruiter or process was non-responsive
+
+## Lacks required security clearance or ITAR eligibility (4)
+- Candidate does not have an active security clearance
+- Candidate lacks the required security clearance
+- Does not meet ITAR compliance requirements
+- Not eligible for required security clearance
+
+## Missing required license or bar exam (3)
+- Candidate has not passed the required bar exam
+- Candidate is not admitted to the required state bar
+- Candidate is not licensed in New Jersey
+
+## Missing required language skills (4)
+- Lack of required bilingual language skills
+- Language proficiency insufficient
+- Language proficiency is insufficient
+- Required language proficiency missing
+
+## Does not have the required book of business (client base) (4)
+- Candidate does not have the required portable book of business
+- Candidate does not meet the required book of business
+- Candidate lacked required book of business
+- Candidate lacks required revenue book
+
+## Has not closed a funding round (fundraising experience) (1)
+- Candidate has not closed a Series A to D funding round
+
+## Has not sold to our target buyer (customer type) (1)
+- Does not sell to our target buyer
+
+## Consulting or agency background not a fit (13)
+- Candidate comes mainly from consulting or sales backgrounds without hands-on operating experience
+- Candidate has a consulting focused background
+- Candidate's background is in consulting or non-product industries
+- Candidate's consulting experience not relevant
+- Concerns about consultancy background
+- Consulting background is not a good fit
+- Consulting or bootcamp background is not desired
+- Consulting or short-term experience not a fit
+- Contracting or consulting background not a fit
+- Does not have the required MBB consulting background or level
+- Missing high-growth consulting or MBB background
+- The candidate's background is weak or consulting-heavy
+- The candidate's healthcare consulting background is not a good fit
+
+## Company changed the hiring requirements or focus (7)
+- Candidate changed terms or is not a fit currently
+- Changing hiring focus to different candidate profiles
+- Changing hiring requirements or criteria
+- Hiring direction changed and required different experience
+- Profile requirements have changed
+- Role now requires a traditional engineering background
+- Team's focus has shifted away from the candidate's expertise
+
+## Team suggests multiple tech candidates (1)
+- Team has too many engineers
+
+## Resume has errors or is poorly formatted (6)
+- Resume contains errors or is poorly presented
+- Resume contains formatting errors and typos
+- Resume contains significant writing and formatting errors
+- Resume errors or lack of attention to detail
+- Resume is poorly formatted and shows low attention to detail
+- Resume quality or candidate responsiveness issues
+
+## Insufficient information (16)
+- Application is incomplete or missing required responses
+- Application or profile information was incomplete or unreliable
+- Does not understand what great looks like
+- Incomplete application or missing resume
+- Insufficient information provided
+- Missing or incomplete scorecard information
+- Other
+- Other reason
+- Questionnaire answers are vague or unthoughtful
+- Recruiter submitted incomplete or unvetted candidate information
+- Required documents are missing
+- Required materials were not submitted
+- Resume does not provide clear evidence
+- Resume or bio contained confusing information
+- Resume was auto-rejected or lacked detail
+- Screening responses are incomplete
+
+## Not enough or not relevant experience (252)
+- Banking background but not enough experience
+- Candidate does not have 0-1 building experience
+- Candidate does not have enough firm experience
+- Candidate does not have enough overall experience
+- Candidate does not have enough relevant experience
+- Candidate does not have enough total years of experience
+- Candidate does not have enough US work experience
+- Candidate does not have enough usage metering or billing experience
+- Candidate does not have enough years of experience
+- Candidate does not have enough years of relevant experience
+- Candidate does not have indirect tax or e-invoicing experience
+- Candidate does not have production tapeout experience
+- Candidate does not have relevant experience
+- Candidate does not have required security experience
+- Candidate does not have SDR experience
+- Candidate does not have sufficient investor relations or fundraising experience
+- Candidate does not have sustained production React and TypeScript experience
+- Candidate does not have the required years of tax experience
+- Candidate experience is unrelated to metering billing or entitlements
+- Candidate has insufficient professional experience
+- Candidate has limited experience scaling to high-volume production
+- Candidate has no recent work experience
+- Candidate has no solid A/B testing experience
+- Candidate has not worked on large-scale products
+- Candidate has outdated trust and safety experience
+- Candidate is below the required experience floor
+- Candidate is outside the required experience range
+- Candidate is underqualified
+- Candidate lacks a strong founder signal
+- Candidate lacks AmLaw or boutique firm experience
+- Candidate lacks breadth of experience
+- Candidate lacks data modeling and workflow experience
+- Candidate lacks defense litigation experience
+- Candidate lacks direct bookkeeping or accounting experience
+- Candidate lacks direct litigation experience
+- Candidate lacks experience at a top consulting or investment banking firm
+- Candidate lacks FDE experience
+- Candidate lacks field and ABM experience
+- Candidate lacks founding or 0-1 AE experience
+- Candidate lacks growth-stage scaling experience
+- Candidate lacks high-speed GPU and compute board experience
+- Candidate lacks insurance defense experience
+- Candidate lacks large firm experience
+- Candidate lacks manufacturing background
+- Candidate lacks model training or machine learning experience
+- Candidate lacks on-chain data indexing or real-time fan-out experience
+- Candidate lacks overall robotics experience
+- Candidate lacks product management experience
+- Candidate lacks production-grade data science or machine-learning experience
+- Candidate lacks program management experience
+- Candidate lacks recent full-phase commercial litigation experience
+- Candidate lacks recent law firm or defense experience
+- Candidate lacks recent or relevant work experience
+- Candidate lacks recent product management experience at a Series A-D company
+- Candidate lacks recent relevant experience
+- Candidate lacks relevant experience
+- Candidate lacks relevant mechanical design experience
+- Candidate lacks relevant technology experience
+- Candidate lacks required experience
+- Candidate lacks required firm experience
+- Candidate lacks required law firm experience
+- Candidate lacks required mix of construction and tech experience
+- Candidate lacks required post-bar experience
+- Candidate lacks required practice area experience
+- Candidate lacks required real estate transactional experience
+- Candidate lacks required reform experience
+- Candidate lacks required workers compensation hearing representative experience
+- Candidate lacks required X platform experience
+- Candidate lacks required years of experience
+- Candidate lacks RL or reward-learning experience
+- Candidate lacks robotics design experience
+- Candidate lacks scale-up experience or relevant company background
+- Candidate lacks school district defense experience
+- Candidate lacks strategic partnership experience
+- Candidate lacks sufficient client-facing or stakeholder management experience
+- Candidate lacks sufficient complex commercial litigation experience
+- Candidate lacks sufficient CRE transactional experience
+- Candidate lacks sufficient experience
+- Candidate lacks sufficient or relevant clinical experience
+- Candidate lacks sufficient SDR or BDR experience
+- Candidate lacks tax controversy experience at a law firm or federal agency
+- Candidate lacks the required five years of relevant experience
+- Candidate lacks the required years of experience
+- Candidate lacks the required years of relevant experience
+- Candidate lacks traditional law experience
+- Candidate recently passed the bar
+- Candidate's experience does not match the role
+- Candidate's experience does not match the role's scale
+- Candidate's experience is too narrow in scope
+- Candidate's experience is too surface-level or limited to consulting/enterprise work
+- Candidate's relevant experience is not clearly described
+- Corporate department experience not strong enough
+- Does not have direct commercial real estate experience
+- Does not have enough experience
+- Does not have enough relevant experience
+- Does not have MBB consulting experience
+- Does not have required experience
+- Does not have required manufacturing or MES experience
+- Does not meet the stated criteria
+- Executive client-facing experience is unclear
+- Experience is not relevant to robotics role
+- Experience is too limited or only at one company
+- Experience lacks the scale or complexity we require
+- Experience misaligned with the position
+- Experience not aligned with the role
+- Experience primarily in unrelated field
+- Founder background lacks traction or shows red flags
+- Functional experience does not match role
+- Insufficient active coverage and underwriting experience
+- Insufficient application security experience
+- Insufficient B2B or in-person events experience
+- Insufficient breadth of operations experience
+- Insufficient buy-side experience
+- Insufficient commercial due diligence experience
+- Insufficient commercial network
+- Insufficient computer vision experience
+- Insufficient construction or contractor experience
+- Insufficient creator acquisition experience
+- Insufficient design-system or component-library experience
+- Insufficient detail on scaling experience
+- Insufficient detection response experience
+- Insufficient experience
+- Insufficient experience with distributed systems
+- Insufficient experience with recommendation or matching systems
+- Insufficient experience with required responsibilities
+- Insufficient full-cycle AE experience
+- Insufficient full-time development experience
+- Insufficient full-time employment experience
+- Insufficient high-volume lab experience
+- Insufficient law firm experience with complex commercial real estate deals
+- Insufficient Node.js TypeScript experience
+- Insufficient NVIDIA GPU experience
+- Insufficient office management experience
+- Insufficient or irrelevant experience
+- Insufficient or weak experience
+- Insufficient overall experience
+- Insufficient PA or EA experience
+- Insufficient PCB or board design experience
+- Insufficient PLM experience
+- Insufficient product management experience
+- Insufficient real world experience
+- Insufficient reinforcement learning or machine learning experience
+- Insufficient relevant experience
+- Insufficient relevant experience at a sophisticated practice
+- Insufficient required experience
+- Insufficient research experience
+- Insufficient research or publication background
+- Insufficient Rust experience
+- Insufficient social experience
+- Insufficient strategy and operations experience
+- Insufficient trial experience
+- Insufficient years of experience
+- Insufficient years of relevant experience
+- Irrelevant experience or wrong background
+- Lack of billing experience
+- Lack of consulting experience
+- Lack of demonstrated problem solving experience
+- Lack of product experience
+- Lack of production grade post training experience
+- Lack of production grade reinforcement learning experience
+- Lack of recent relevant experience
+- Lack of relevant CSM experience
+- Lack of relevant experience
+- Lack of relevant SDR experience or fit
+- Lack of strong distributed systems experience
+- Lack of US-based experience
+- Lacked high volume experience
+- Lacking relevant experience
+- Lacking relevant experience at established companies
+- Lacks CI/CD and production deployment experience
+- Lacks client-facing experience
+- Lacks continual learning experience
+- Lacks deep TypeScript platform experience
+- Lacks experience as a strategic account executive in a challenger software company
+- Lacks high-scale transactional or distributed systems experience
+- Lacks hiring experience
+- Lacks offensive anti-bot experience
+- Lacks operational and execution experience at high-profile companies
+- Lacks pure growth experience
+- Lacks relevant client-facing or consulting experience
+- Lacks relevant Edtech experience
+- Lacks relevant experience for the role
+- Lacks relevant supply chain or manufacturing experience
+- Lacks relevant supply side experience
+- Lacks required automation and no-code tool experience
+- Lacks required EE or MechE background
+- Lacks required experience
+- Lacks required experience with our buyer type
+- Lacks required MEP design experience
+- Lacks required private equity or top consulting experience
+- Lacks required product development experience
+- Lacks required QMS experience
+- Lacks required tool experience
+- Lacks required US litigation experience
+- Lacks specific practice or CRE experience
+- Lacks strong firm background
+- Lacks sufficient cancer experience
+- Lacks sufficient experience
+- Lacks sufficient liquid handling experience
+- Limited US work experience
+- Missing FedRAMP or federal compliance experience
+- Missing GovCon experience
+- Missing identity or security experience
+- Missing post-training or frontier-lab experience
+- Missing product application security experience
+- Missing product roadmap experience
+- Missing recent firm experience
+- Missing required experience
+- Needs more law firm experience
+- No aerospace or defense experience
+- No FDE or related experience
+- No payment ledger experience
+- No robotics exposure
+- No trading experience
+- Not enough detail on project outcomes or scale
+- Not enough evaluation experience
+- Not enough experience
+- Not enough experience for the role
+- Not enough overall experience
+- Not enough relevant experience
+- Not enough relevant experience length
+- Not enough years of experience
+- Overall experience does not match the position
+- Overall experience is insufficient
+- Prior experience does not meet the commercial litigation requirement
+- Product complexity is too low
+- Recent work limited to small-scale consulting or internal tooling
+- Remote experience is not sufficient quality
+- Requires more years of experience
+- The candidate does not have enough years of experience
+- The candidate does not have sufficient product experience
+- The candidate does not have the required years of experience
+- The candidate lacks client-facing experience
+- The candidate lacks corporate tax return experience
+- The candidate lacks direct NYC rent regulation experience
+- The candidate lacks directly relevant work experience
+- The candidate lacks experience in the required practice areas
+- The candidate lacks perception experience
+- The candidate lacks post-training full-time experience
+- The candidate lacks product sense
+- The candidate lacks production agent experience
+- The candidate lacks production-grade C++ experience
+- The candidate lacks relevant experience
+- The candidate lacks relevant product experience
+- The candidate lacks required experience
+- The candidate lacks required social media experience
+- The candidate lacks sufficient business accomplishments
+- The candidate lacks sufficient statistical rigor in evaluation
+- The candidate's experience is not relevant to the role
+- The candidate's recent experience does not match the role
+- The resume does not show web-scale extraction evaluation experience
+- Work experience is limited in scope
+
+## Overall profile does not fit the role (74)
+- Background does not match firm structure
+- Background does not match role
+- Background does not match the position
+- Background does not match the role
+- Background from companies does not match expectations
+- Background in unrelated industries or roles
+- Background is in unrelated areas such as risk or tax
+- Background is more product or consulting than deployment
+- Background is not relevant to the role
+- Background not relevant
+- Background or experience does not fit the role
+- Candidate background does not align with the role
+- Candidate background is not relevant to the role
+- Candidate does not align with current role or company preferences
+- Candidate fit is marginal but not sufficient
+- Candidate is not a fit
+- Candidate is not a fit for current hiring needs
+- Candidate is not a fit for the role
+- Candidate is not a fit for the specific role
+- Candidate is not a good fit
+- Candidate is not a good fit for the role
+- Candidate is not a good fit for the role or company
+- Candidate is not a good fit for the team
+- Candidate is not a good match for us
+- Candidate is not marketable for the role
+- Candidate is not the right fit
+- Candidate not a fit
+- Candidate not a fit for the role
+- Candidate not a fit for this role
+- Candidate was not a good fit
+- Candidate was not a good fit for the role
+- Candidate's background does not align with the role
+- Candidate's background does not match the hearing representative role
+- Candidate's background does not match the role
+- Candidate's background does not match the updated Head of Research role
+- Candidate's background is disjointed or not relevant to the role
+- Candidate's background is mainly government or litigation rather than private CRE work
+- Candidate's background is more suited to a different position
+- Candidate's overall background is misaligned with the role
+- Candidate's practice volume or model is not a fit
+- Does not have aerospace or high-velocity environment background
+- Does not match the defined target archetype
+- Does not match the ideal profile
+- Does not match the role archetype or fit
+- General fit concerns or insufficient overall evidence
+- General not a fit
+- Not a fit after conversation
+- Not a fit for current priority
+- Not a fit for current team needs
+- Not a fit for role or company
+- Not a fit for role or company preferences
+- Not a fit for the practice
+- Not a fit for the role
+- Not a fit for the role or team
+- Not a fit for the specific product or growth role
+- Not a fit for the team or role
+- Not a good fit
+- Not a good fit for the role
+- Not a good fit for the team
+- Not a good overall fit
+- Not aligned with the specific role or responsibilities
+- Not the right profile
+- Overall fit not strong enough
+- Overall fit not sufficient
+- Poor fit for team environment
+- Poor fit with role structure or work environment
+- Primarily assay development background
+- Professional background not relevant to the role
+- Profile does not match our target candidate type
+- Profile emphasizes function growth instead of individual contribution
+- The candidate is not a good match for the role
+- The candidate's approach or fit does not align with role expectations
+- Weak individual contributor background
+- Work background not aligned with the role
+

@@ -1,0 +1,46 @@
+Candidate accepted another offer: 40
+Candidate declined the offer: 15
+Job position closed, on hold or already filled: 16
+Candidate did not respond or could not be reached: 124
+Candidate showed no interest: 44
+Candidate withdrew from the hiring process: 104
+Duplicate application or removed from the system: 65
+Fake profile, fraud or dishonest information: 70
+Candidate already in the hiring pipeline or rejected before: 48
+Hiring process problem or no feedback from the hiring side: 23
+Other candidates chosen, or no specific reason given: 67
+Salary expectation does not match the budget: 63
+Needs visa sponsorship or lacks work authorization: 65
+Wrong location or unwilling to relocate: 119
+Candidate not available or start date too late: 42
+Frequent job changes or short time in past jobs: 182
+Contractor, part-time or currently unemployed: 24
+Candidate is overqualified or too senior: 59
+Poor communication: 74
+Not a good culture or values fit: 102
+Candidate failed or did not complete an interview or test: 159
+No startup experience, or only large-company background: 202
+Education or past companies not strong enough: 204
+Lacks ownership, drive or leadership: 80
+Too junior, or seniority level does not match: 148
+Industry or domain experience does not match: 206
+Missing required skills or technical depth: 494
+Unclear career goals, growth or work history: 40
+No clear results or achievements shown: 49
+Concerns about behavior, trust or commitment: 26
+Job role or focus does not match the candidate: 61
+Position is still active: 1
+Recruiter or hiring manager did not respond: 7
+Lacks required security clearance or ITAR eligibility: 4
+Missing required license or bar exam: 3
+Missing required language skills: 4
+Does not have the required book of business (client base): 4
+Has not closed a funding round (fundraising experience): 1
+Has not sold to our target buyer (customer type): 1
+Consulting or agency background not a fit: 13
+Company changed the hiring requirements or focus: 7
+Team suggests multiple tech candidates: 1
+Resume has errors or is poorly formatted: 6
+Insufficient information: 16
+Not enough or not relevant experience: 252
+Overall profile does not fit the role: 74

@@ -1,0 +1,46 @@
+Candidate accepted another offer
+Candidate declined the offer
+Job position closed, on hold or already filled
+Candidate did not respond or could not be reached
+Candidate showed no interest
+Candidate withdrew from the hiring process
+Duplicate application or removed from the system
+Fake profile, fraud or dishonest information
+Candidate already in the hiring pipeline or rejected before
+Hiring process problem or no feedback from the hiring side
+Other candidates chosen, or no specific reason given
+Salary expectation does not match the budget
+Needs visa sponsorship or lacks work authorization
+Wrong location or unwilling to relocate
+Candidate not available or start date too late
+Frequent job changes or short time in past jobs
+Contractor, part-time or currently unemployed
+Candidate is overqualified or too senior
+Poor communication
+Not a good culture or values fit
+Candidate failed or did not complete an interview or test
+No startup experience, or only large-company background
+Education or past companies not strong enough
+Lacks ownership, drive or leadership
+Too junior, or seniority level does not match
+Industry or domain experience does not match
+Missing required skills or technical depth
+Unclear career goals, growth or work history
+No clear results or achievements shown
+Concerns about behavior, trust or commitment
+Job role or focus does not match the candidate
+Position is still active
+Recruiter or hiring manager did not respond
+Lacks required security clearance or ITAR eligibility
+Missing required license or bar exam
+Missing required language skills
+Does not have the required book of business (client base)
+Has not closed a funding round (fundraising experience)
+Has not sold to our target buyer (customer type)
+Consulting or agency background not a fit
+Company changed the hiring requirements or focus
+Team suggests multiple tech candidates
+Resume has errors or is poorly formatted
+Insufficient information
+Not enough or not relevant experience
+Overall profile does not fit the role
